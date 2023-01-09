@@ -1,0 +1,495 @@
+>>>>>>>>>>>>> size = 100 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.003597 seconds
+Problem Size: 100 * 100, 100
+Process Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.004361 seconds
+Problem Size: 100 * 100, 100
+Process Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.003526 seconds
+Problem Size: 100 * 100, 100
+Process Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.003152 seconds
+Problem Size: 100 * 100, 100
+Process Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.002576 seconds
+Problem Size: 100 * 100, 100
+Process Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.001740 seconds
+Problem Size: 100 * 100, 100
+Process Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.002123 seconds
+Problem Size: 100 * 100, 100
+Process Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.002092 seconds
+Problem Size: 100 * 100, 100
+Process Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.001100 seconds
+Problem Size: 100 * 100, 100
+Process Number: 40
+>>>>>>>>>>>>> size = 400 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.048920 seconds
+Problem Size: 400 * 400, 100
+Process Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.033036 seconds
+Problem Size: 400 * 400, 100
+Process Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.028531 seconds
+Problem Size: 400 * 400, 100
+Process Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.021244 seconds
+Problem Size: 400 * 400, 100
+Process Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.017358 seconds
+Problem Size: 400 * 400, 100
+Process Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.013861 seconds
+Problem Size: 400 * 400, 100
+Process Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.008263 seconds
+Problem Size: 400 * 400, 100
+Process Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.008818 seconds
+Problem Size: 400 * 400, 100
+Process Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.004974 seconds
+Problem Size: 400 * 400, 100
+Process Number: 40
+>>>>>>>>>>>>> size = 800 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.173394 seconds
+Problem Size: 800 * 800, 100
+Process Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.123956 seconds
+Problem Size: 800 * 800, 100
+Process Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.084078 seconds
+Problem Size: 800 * 800, 100
+Process Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.050769 seconds
+Problem Size: 800 * 800, 100
+Process Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.037285 seconds
+Problem Size: 800 * 800, 100
+Process Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.029646 seconds
+Problem Size: 800 * 800, 100
+Process Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.021702 seconds
+Problem Size: 800 * 800, 100
+Process Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.024228 seconds
+Problem Size: 800 * 800, 100
+Process Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.015471 seconds
+Problem Size: 800 * 800, 100
+Process Number: 40
+>>>>>>>>>>>>> size = 1000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.267875 seconds
+Problem Size: 1000 * 1000, 100
+Process Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.205812 seconds
+Problem Size: 1000 * 1000, 100
+Process Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.131089 seconds
+Problem Size: 1000 * 1000, 100
+Process Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.074419 seconds
+Problem Size: 1000 * 1000, 100
+Process Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.050930 seconds
+Problem Size: 1000 * 1000, 100
+Process Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.038513 seconds
+Problem Size: 1000 * 1000, 100
+Process Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.032205 seconds
+Problem Size: 1000 * 1000, 100
+Process Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.029172 seconds
+Problem Size: 1000 * 1000, 100
+Process Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.050198 seconds
+Problem Size: 1000 * 1000, 100
+Process Number: 40
+>>>>>>>>>>>>> size = 2000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 1.100270 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.751113 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.507752 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.279938 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.198400 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.154792 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.112942 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.093404 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.104696 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 40
+>>>>>>>>>>>>> size = 3000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 2.456986 seconds
+Problem Size: 3000 * 3000, 100
+Process Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 1.703100 seconds
+Problem Size: 3000 * 3000, 100
+Process Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 1.104167 seconds
+Problem Size: 3000 * 3000, 100
+Process Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.641038 seconds
+Problem Size: 3000 * 3000, 100
+Process Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.423642 seconds
+Problem Size: 3000 * 3000, 100
+Process Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.322794 seconds
+Problem Size: 3000 * 3000, 100
+Process Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.257845 seconds
+Problem Size: 3000 * 3000, 100
+Process Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.209644 seconds
+Problem Size: 3000 * 3000, 100
+Process Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.173179 seconds
+Problem Size: 3000 * 3000, 100
+Process Number: 40
+>>>>>>>>>>>>> size = 4000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 4.705138 seconds
+Problem Size: 4000 * 4000, 100
+Process Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 3.106759 seconds
+Problem Size: 4000 * 4000, 100
+Process Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 2.034464 seconds
+Problem Size: 4000 * 4000, 100
+Process Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 1.141142 seconds
+Problem Size: 4000 * 4000, 100
+Process Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.850339 seconds
+Problem Size: 4000 * 4000, 100
+Process Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.564756 seconds
+Problem Size: 4000 * 4000, 100
+Process Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.418150 seconds
+Problem Size: 4000 * 4000, 100
+Process Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.375903 seconds
+Problem Size: 4000 * 4000, 100
+Process Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 0.339648 seconds
+Problem Size: 4000 * 4000, 100
+Process Number: 40
+>>>>>>>>>>>>> size = 8000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 19.026473 seconds
+Problem Size: 8000 * 8000, 100
+Process Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 13.548013 seconds
+Problem Size: 8000 * 8000, 100
+Process Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 7.916776 seconds
+Problem Size: 8000 * 8000, 100
+Process Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 4.474871 seconds
+Problem Size: 8000 * 8000, 100
+Process Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 3.031290 seconds
+Problem Size: 8000 * 8000, 100
+Process Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 2.401193 seconds
+Problem Size: 8000 * 8000, 100
+Process Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 1.700084 seconds
+Problem Size: 8000 * 8000, 100
+Process Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 1.403507 seconds
+Problem Size: 8000 * 8000, 100
+Process Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 1.216530 seconds
+Problem Size: 8000 * 8000, 100
+Process Number: 40
+>>>>>>>>>>>>> size = 10000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 27.541018 seconds
+Problem Size: 10000 * 10000, 100
+Process Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 19.522598 seconds
+Problem Size: 10000 * 10000, 100
+Process Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 12.669995 seconds
+Problem Size: 10000 * 10000, 100
+Process Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 7.152085 seconds
+Problem Size: 10000 * 10000, 100
+Process Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 4.874407 seconds
+Problem Size: 10000 * 10000, 100
+Process Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 3.898358 seconds
+Problem Size: 10000 * 10000, 100
+Process Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 2.657932 seconds
+Problem Size: 10000 * 10000, 100
+Process Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 2.482646 seconds
+Problem Size: 10000 * 10000, 100
+Process Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 MPI
+Run Time: 2.277380 seconds
+Problem Size: 10000 * 10000, 100
+Process Number: 40

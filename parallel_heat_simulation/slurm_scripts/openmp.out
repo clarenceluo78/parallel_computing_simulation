@@ -1,0 +1,287 @@
+>>>>>>>>>>>>> size = 100 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 0.057342, average computation time: 0.000029
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 0.045377, average computation time: 0.000023
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 0.041770, average computation time: 0.000021
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 0.044933, average computation time: 0.000022
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 0.050075, average computation time: 0.000025
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 0.062385, average computation time: 0.000031
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 0.086900, average computation time: 0.000043
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 0.102998, average computation time: 0.000051
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 200 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 0.093618, average computation time: 0.000047
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 0.075451, average computation time: 0.000038
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 0.056716, average computation time: 0.000028
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 0.058141, average computation time: 0.000029
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 0.076398, average computation time: 0.000038
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 0.066762, average computation time: 0.000033
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 0.088716, average computation time: 0.000044
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 0.094807, average computation time: 0.000047
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 400 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 0.408879, average computation time: 0.000204
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 0.271173, average computation time: 0.000136
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 0.168503, average computation time: 0.000084
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 0.126650, average computation time: 0.000063
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 0.102964, average computation time: 0.000051
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 0.117321, average computation time: 0.000059
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 0.132005, average computation time: 0.000066
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 0.176112, average computation time: 0.000088
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 800 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 1.664330, average computation time: 0.000832
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 0.861710, average computation time: 0.000431
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 0.480679, average computation time: 0.000240
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 0.335075, average computation time: 0.000168
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 0.263937, average computation time: 0.000132
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 0.288185, average computation time: 0.000144
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 0.243189, average computation time: 0.000122
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 0.241882, average computation time: 0.000121
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 1000 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 2.528286, average computation time: 0.001264
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 1.395901, average computation time: 0.000698
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 0.702473, average computation time: 0.000351
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 0.507417, average computation time: 0.000254
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 0.398190, average computation time: 0.000199
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 0.425855, average computation time: 0.000213
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 0.318673, average computation time: 0.000159
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 0.311335, average computation time: 0.000156
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 1600 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 6.592810, average computation time: 0.003296
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 3.362199, average computation time: 0.001681
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 1.815228, average computation time: 0.000908
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 1.308100, average computation time: 0.000654
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 1.203341, average computation time: 0.000602
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 0.943448, average computation time: 0.000472
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 0.769844, average computation time: 0.000385
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 0.680812, average computation time: 0.000340
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 3200 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 26.156921, average computation time: 0.013078
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 13.934655, average computation time: 0.006967
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 7.371560, average computation time: 0.003686
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 4.890958, average computation time: 0.002445
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 4.295209, average computation time: 0.002148
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 4.244846, average computation time: 0.002122
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 3.683801, average computation time: 0.001842
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 3.523452, average computation time: 0.001762
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution openMP Implementation
+Thread: 40

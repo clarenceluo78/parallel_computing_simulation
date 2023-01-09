@@ -1,0 +1,41 @@
+Thread = 4, Process = 4
+Size = 50
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 3: N Body Simulation MPI+OpenMP Implementation
+Total time: 12.113
+Size = 100
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 3: N Body Simulation MPI+OpenMP Implementation
+Total time: 11.991
+Size = 200
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 3: N Body Simulation MPI+OpenMP Implementation
+Total time: 11.864
+Size = 400
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 3: N Body Simulation MPI+OpenMP Implementation
+Total time: 11.961
+Size = 800
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 3: N Body Simulation MPI+OpenMP Implementation
+Total time: 11.858
+Size = 1000
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 3: N Body Simulation MPI+OpenMP Implementation
+Total time: 12.199
+Size = 1600
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 3: N Body Simulation MPI+OpenMP Implementation
+Total time: 12.637
+Size = 3200
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 3: N Body Simulation MPI+OpenMP Implementation
+Total time: 16.316

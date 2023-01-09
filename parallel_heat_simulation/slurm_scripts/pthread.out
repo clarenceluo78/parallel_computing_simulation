@@ -1,0 +1,287 @@
+>>>>>>>>>>>>> size = 100 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 0.195321, average computation time: 0.000098
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 0.174026, average computation time: 0.000087
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 0.477741, average computation time: 0.000239
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 0.748460, average computation time: 0.000374
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 1.019086, average computation time: 0.000510
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 1.529376, average computation time: 0.000765
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 2.021957, average computation time: 0.001011
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 2.490068, average computation time: 0.001245
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 200 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 0.227811, average computation time: 0.000114
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 0.370677, average computation time: 0.000185
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 0.503991, average computation time: 0.000252
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 0.762641, average computation time: 0.000381
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 0.993530, average computation time: 0.000497
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 1.521454, average computation time: 0.000761
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 1.923935, average computation time: 0.000962
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 2.360024, average computation time: 0.001180
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 400 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 0.556798, average computation time: 0.000278
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 0.443810, average computation time: 0.000222
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 0.947377, average computation time: 0.000474
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 0.827470, average computation time: 0.000414
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 1.023875, average computation time: 0.000512
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 1.425872, average computation time: 0.000713
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 1.898719, average computation time: 0.000949
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 2.365526, average computation time: 0.001183
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 800 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 1.654002, average computation time: 0.000827
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 1.268981, average computation time: 0.000634
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 1.389579, average computation time: 0.000695
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 1.568273, average computation time: 0.000784
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 1.519718, average computation time: 0.000760
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 1.684815, average computation time: 0.000842
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 2.039045, average computation time: 0.001020
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 2.435466, average computation time: 0.001218
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 1000 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 2.646124, average computation time: 0.001323
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 1.908890, average computation time: 0.000954
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 1.430701, average computation time: 0.000715
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 2.186182, average computation time: 0.001093
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 2.077472, average computation time: 0.001039
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 2.022244, average computation time: 0.001011
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 2.256531, average computation time: 0.001128
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 2.591167, average computation time: 0.001296
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 1600 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 6.558684, average computation time: 0.003279
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 3.805151, average computation time: 0.001903
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 2.278691, average computation time: 0.001139
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 2.577821, average computation time: 0.001289
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 3.669471, average computation time: 0.001835
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 4.393774, average computation time: 0.002197
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 3.892587, average computation time: 0.001946
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 4.005775, average computation time: 0.002003
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 40
+>>>>>>>>>>>>> size = 3200 <<<<<<<<<<<<<<<
+Converge after 2000 iterations, elapsed time: 26.981152, average computation time: 0.013491
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 2
+Converge after 2000 iterations, elapsed time: 18.506049, average computation time: 0.009253
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 4
+Converge after 2000 iterations, elapsed time: 10.188045, average computation time: 0.005094
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 8
+Converge after 2000 iterations, elapsed time: 9.004785, average computation time: 0.004502
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 12
+Converge after 2000 iterations, elapsed time: 8.185862, average computation time: 0.004093
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 16
+Converge after 2000 iterations, elapsed time: 12.727815, average computation time: 0.006364
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 24
+Converge after 2000 iterations, elapsed time: 10.234434, average computation time: 0.005117
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 32
+Converge after 2000 iterations, elapsed time: 9.023970, average computation time: 0.004512
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Pthread Implementation
+Thread: 40

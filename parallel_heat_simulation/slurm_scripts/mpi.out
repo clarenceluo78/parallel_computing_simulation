@@ -1,0 +1,287 @@
+>>>>>>>>>>>>> size = 100 <<<<<<<<<<<<<<<
+Process = 2
+Converge after 2000 iterations, elapsed time: 0.036310, average computation time: 0.000018
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 4
+Converge after 2000 iterations, elapsed time: 0.033804, average computation time: 0.000017
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 8
+Converge after 2000 iterations, elapsed time: 0.023289, average computation time: 0.000012
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 12
+Converge after 2000 iterations, elapsed time: 0.020350, average computation time: 0.000010
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 16
+Converge after 2000 iterations, elapsed time: 0.018094, average computation time: 0.000009
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 24
+Converge after 2000 iterations, elapsed time: 0.020568, average computation time: 0.000010
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 32
+Converge after 2000 iterations, elapsed time: 0.013411, average computation time: 0.000007
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 40
+Converge after 2000 iterations, elapsed time: 0.064523, average computation time: 0.000032
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+>>>>>>>>>>>>> size = 200 <<<<<<<<<<<<<<<
+Process = 2
+Converge after 2000 iterations, elapsed time: 0.120544, average computation time: 0.000060
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 4
+Converge after 2000 iterations, elapsed time: 0.071617, average computation time: 0.000036
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 8
+Converge after 2000 iterations, elapsed time: 0.046773, average computation time: 0.000023
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 12
+Converge after 2000 iterations, elapsed time: 0.040185, average computation time: 0.000020
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 16
+Converge after 2000 iterations, elapsed time: 0.038746, average computation time: 0.000019
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 24
+Converge after 2000 iterations, elapsed time: 0.031545, average computation time: 0.000016
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 32
+Converge after 2000 iterations, elapsed time: 0.031386, average computation time: 0.000016
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 40
+Converge after 2000 iterations, elapsed time: 0.022348, average computation time: 0.000011
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+>>>>>>>>>>>>> size = 400 <<<<<<<<<<<<<<<
+Process = 2
+Converge after 2000 iterations, elapsed time: 1.081637, average computation time: 0.000541
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 4
+Converge after 2000 iterations, elapsed time: 0.665571, average computation time: 0.000333
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 8
+Converge after 2000 iterations, elapsed time: 0.350896, average computation time: 0.000175
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 12
+Converge after 2000 iterations, elapsed time: 0.235028, average computation time: 0.000118
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 16
+Converge after 2000 iterations, elapsed time: 0.187713, average computation time: 0.000094
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 24
+Converge after 2000 iterations, elapsed time: 0.216684, average computation time: 0.000108
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 32
+Converge after 2000 iterations, elapsed time: 0.170094, average computation time: 0.000085
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 40
+Converge after 2000 iterations, elapsed time: 0.131082, average computation time: 0.000066
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+>>>>>>>>>>>>> size = 800 <<<<<<<<<<<<<<<
+Process = 2
+Converge after 2000 iterations, elapsed time: 5.296941, average computation time: 0.002648
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 4
+Converge after 2000 iterations, elapsed time: 2.917922, average computation time: 0.001459
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 8
+Converge after 2000 iterations, elapsed time: 1.485436, average computation time: 0.000743
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 12
+Converge after 2000 iterations, elapsed time: 0.970300, average computation time: 0.000485
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 16
+Converge after 2000 iterations, elapsed time: 0.875734, average computation time: 0.000438
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 24
+Converge after 2000 iterations, elapsed time: 0.880913, average computation time: 0.000440
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 32
+Converge after 2000 iterations, elapsed time: 0.654667, average computation time: 0.000327
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 40
+Converge after 2000 iterations, elapsed time: 0.527559, average computation time: 0.000264
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+>>>>>>>>>>>>> size = 1000 <<<<<<<<<<<<<<<
+Process = 2
+Converge after 2000 iterations, elapsed time: 8.348892, average computation time: 0.004174
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 4
+Converge after 2000 iterations, elapsed time: 4.506519, average computation time: 0.002253
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 8
+Converge after 2000 iterations, elapsed time: 2.350607, average computation time: 0.001175
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 12
+Converge after 2000 iterations, elapsed time: 1.871049, average computation time: 0.000936
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 16
+Converge after 2000 iterations, elapsed time: 1.254117, average computation time: 0.000627
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 24
+Converge after 2000 iterations, elapsed time: 1.320717, average computation time: 0.000660
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 32
+Converge after 2000 iterations, elapsed time: 1.025209, average computation time: 0.000513
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 40
+Converge after 2000 iterations, elapsed time: 0.819138, average computation time: 0.000410
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+>>>>>>>>>>>>> size = 1600 <<<<<<<<<<<<<<<
+Process = 2
+Converge after 2000 iterations, elapsed time: 22.893310, average computation time: 0.011447
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 4
+Converge after 2000 iterations, elapsed time: 11.469527, average computation time: 0.005735
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 8
+Converge after 2000 iterations, elapsed time: 5.837038, average computation time: 0.002919
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 12
+Converge after 2000 iterations, elapsed time: 4.114417, average computation time: 0.002057
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 16
+Converge after 2000 iterations, elapsed time: 3.214699, average computation time: 0.001607
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 24
+Converge after 2000 iterations, elapsed time: 3.416652, average computation time: 0.001708
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 32
+Converge after 2000 iterations, elapsed time: 2.601194, average computation time: 0.001301
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 40
+Converge after 2000 iterations, elapsed time: 2.148217, average computation time: 0.001074
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+>>>>>>>>>>>>> size = 3200 <<<<<<<<<<<<<<<
+Process = 2
+Converge after 2000 iterations, elapsed time: 105.519092, average computation time: 0.052760
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 4
+Converge after 2000 iterations, elapsed time: 44.392910, average computation time: 0.022196
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 8
+Converge after 2000 iterations, elapsed time: 24.949726, average computation time: 0.012475
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 12
+Converge after 2000 iterations, elapsed time: 16.635274, average computation time: 0.008318
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 16
+Converge after 2000 iterations, elapsed time: 18.514658, average computation time: 0.009257
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 24
+Converge after 2000 iterations, elapsed time: 13.862913, average computation time: 0.006931
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 32
+Converge after 2000 iterations, elapsed time: 10.877149, average computation time: 0.005439
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation
+Process = 40
+Converge after 2000 iterations, elapsed time: 9.030621, average computation time: 0.004515
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 4: Heat Distribution Simulation MPI Implementation

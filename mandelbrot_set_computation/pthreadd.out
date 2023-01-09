@@ -1,0 +1,495 @@
+>>>>>>>>>>>>> size = 100 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.008144 seconds
+Problem Size: 100 * 100, 100
+Thread Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.004254 seconds
+Problem Size: 100 * 100, 100
+Thread Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.002678 seconds
+Problem Size: 100 * 100, 100
+Thread Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.002009 seconds
+Problem Size: 100 * 100, 100
+Thread Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.001858 seconds
+Problem Size: 100 * 100, 100
+Thread Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.001860 seconds
+Problem Size: 100 * 100, 100
+Thread Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.002487 seconds
+Problem Size: 100 * 100, 100
+Thread Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.002789 seconds
+Problem Size: 100 * 100, 100
+Thread Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.003216 seconds
+Problem Size: 100 * 100, 100
+Thread Number: 40
+>>>>>>>>>>>>> size = 400 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.059249 seconds
+Problem Size: 400 * 400, 100
+Thread Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.032474 seconds
+Problem Size: 400 * 400, 100
+Thread Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.021027 seconds
+Problem Size: 400 * 400, 100
+Thread Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.013648 seconds
+Problem Size: 400 * 400, 100
+Thread Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.012056 seconds
+Problem Size: 400 * 400, 100
+Thread Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.010969 seconds
+Problem Size: 400 * 400, 100
+Thread Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.009224 seconds
+Problem Size: 400 * 400, 100
+Thread Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.008724 seconds
+Problem Size: 400 * 400, 100
+Thread Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.008218 seconds
+Problem Size: 400 * 400, 100
+Thread Number: 40
+>>>>>>>>>>>>> size = 800 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.187877 seconds
+Problem Size: 800 * 800, 100
+Thread Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.102527 seconds
+Problem Size: 800 * 800, 100
+Thread Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.067584 seconds
+Problem Size: 800 * 800, 100
+Thread Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.044795 seconds
+Problem Size: 800 * 800, 100
+Thread Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.031517 seconds
+Problem Size: 800 * 800, 100
+Thread Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.031618 seconds
+Problem Size: 800 * 800, 100
+Thread Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.026426 seconds
+Problem Size: 800 * 800, 100
+Thread Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.025340 seconds
+Problem Size: 800 * 800, 100
+Thread Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.018942 seconds
+Problem Size: 800 * 800, 100
+Thread Number: 40
+>>>>>>>>>>>>> size = 1000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.276954 seconds
+Problem Size: 1000 * 1000, 100
+Thread Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.155402 seconds
+Problem Size: 1000 * 1000, 100
+Thread Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.092683 seconds
+Problem Size: 1000 * 1000, 100
+Thread Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.056415 seconds
+Problem Size: 1000 * 1000, 100
+Thread Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.050905 seconds
+Problem Size: 1000 * 1000, 100
+Thread Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.040166 seconds
+Problem Size: 1000 * 1000, 100
+Thread Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.029965 seconds
+Problem Size: 1000 * 1000, 100
+Thread Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.030166 seconds
+Problem Size: 1000 * 1000, 100
+Thread Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.025689 seconds
+Problem Size: 1000 * 1000, 100
+Thread Number: 40
+>>>>>>>>>>>>> size = 2000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.071111 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.564495 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.305012 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.179023 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.138740 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.117736 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.103929 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.092979 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.083947 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 40
+>>>>>>>>>>>>> size = 3000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 2.366578 seconds
+Problem Size: 3000 * 3000, 100
+Thread Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.255924 seconds
+Problem Size: 3000 * 3000, 100
+Thread Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.667805 seconds
+Problem Size: 3000 * 3000, 100
+Thread Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.381318 seconds
+Problem Size: 3000 * 3000, 100
+Thread Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.287484 seconds
+Problem Size: 3000 * 3000, 100
+Thread Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.233080 seconds
+Problem Size: 3000 * 3000, 100
+Thread Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.191717 seconds
+Problem Size: 3000 * 3000, 100
+Thread Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.169574 seconds
+Problem Size: 3000 * 3000, 100
+Thread Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.165935 seconds
+Problem Size: 3000 * 3000, 100
+Thread Number: 40
+>>>>>>>>>>>>> size = 4000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 4.181921 seconds
+Problem Size: 4000 * 4000, 100
+Thread Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 2.223762 seconds
+Problem Size: 4000 * 4000, 100
+Thread Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.189263 seconds
+Problem Size: 4000 * 4000, 100
+Thread Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.643424 seconds
+Problem Size: 4000 * 4000, 100
+Thread Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.476665 seconds
+Problem Size: 4000 * 4000, 100
+Thread Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.400131 seconds
+Problem Size: 4000 * 4000, 100
+Thread Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.341791 seconds
+Problem Size: 4000 * 4000, 100
+Thread Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.282783 seconds
+Problem Size: 4000 * 4000, 100
+Thread Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 0.266419 seconds
+Problem Size: 4000 * 4000, 100
+Thread Number: 40
+>>>>>>>>>>>>> size = 8000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 16.912551 seconds
+Problem Size: 8000 * 8000, 100
+Thread Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 8.906064 seconds
+Problem Size: 8000 * 8000, 100
+Thread Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 4.570731 seconds
+Problem Size: 8000 * 8000, 100
+Thread Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 2.525297 seconds
+Problem Size: 8000 * 8000, 100
+Thread Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.902907 seconds
+Problem Size: 8000 * 8000, 100
+Thread Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.577907 seconds
+Problem Size: 8000 * 8000, 100
+Thread Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.280521 seconds
+Problem Size: 8000 * 8000, 100
+Thread Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.109863 seconds
+Problem Size: 8000 * 8000, 100
+Thread Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.027007 seconds
+Problem Size: 8000 * 8000, 100
+Thread Number: 40
+>>>>>>>>>>>>> size = 10000 <<<<<<<<<<<<<<<
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 26.366939 seconds
+Problem Size: 10000 * 10000, 100
+Thread Number: 1
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 14.099252 seconds
+Problem Size: 10000 * 10000, 100
+Thread Number: 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 7.338839 seconds
+Problem Size: 10000 * 10000, 100
+Thread Number: 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 3.929904 seconds
+Problem Size: 10000 * 10000, 100
+Thread Number: 8
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 2.893955 seconds
+Problem Size: 10000 * 10000, 100
+Thread Number: 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 2.403059 seconds
+Problem Size: 10000 * 10000, 100
+Thread Number: 16
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.968570 seconds
+Problem Size: 10000 * 10000, 100
+Thread Number: 24
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.699522 seconds
+Problem Size: 10000 * 10000, 100
+Thread Number: 32
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 2 Pthread
+Run Time: 1.564324 seconds
+Problem Size: 10000 * 10000, 100
+Thread Number: 40

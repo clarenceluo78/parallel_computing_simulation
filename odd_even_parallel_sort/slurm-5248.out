@@ -1,0 +1,4693 @@
+rank 1: num_my_element = 10, displacements = 10
+actual number of elements:20
+rank 0: num_my_element = 10, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000289481 seconds
+Input Size: 20
+Process Number: 2
+Sorted.
+rank 1: num_my_element = 7, displacements = 7
+rank 2: num_my_element = 6, displacements = 14
+actual number of elements:20
+rank 0: num_my_element = 7, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000401674 seconds
+Input Size: 20
+Process Number: 3
+Sorted.
+rank 3: num_my_element = 5, displacements = 15
+rank 2: num_my_element = 5, displacements = 10
+rank 1: num_my_element = 5, displacements = 5
+actual number of elements:20
+rank 0: num_my_element = 5, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000394297 seconds
+Input Size: 20
+Process Number: 4
+Sorted.
+rank 3: num_my_element = 4, displacements = 12
+rank 2: num_my_element = 4, displacements = 8
+actual number of elements:20
+rank 4: num_my_element = 4, displacements = 16
+rank 0: num_my_element = 4, displacements = 0
+rank 1: num_my_element = 4, displacements = 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000394339 seconds
+Input Size: 20
+Process Number: 5
+Sorted.
+rank 4: num_my_element = 3, displacements = 14
+rank 3: num_my_element = 3, displacements = 11
+rank 1: num_my_element = 4, displacements = 4
+rank 5: num_my_element = 3, displacements = 17
+rank 2: num_my_element = 3, displacements = 8
+actual number of elements:20
+rank 0: num_my_element = 4, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000390471 seconds
+Input Size: 20
+Process Number: 6
+Sorted.
+rank 3: num_my_element = 3, displacements = 9
+rank 4: num_my_element = 3, displacements = 12
+rank 6: num_my_element = 2, displacements = 18
+rank 2: num_my_element = 3, displacements = 6
+rank 5: num_my_element = 3, displacements = 15
+rank 1: num_my_element = 3, displacements = 3
+actual number of elements:20
+rank 0: num_my_element = 3, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000357508 seconds
+Input Size: 20
+Process Number: 7
+Sorted.
+rank 4: num_my_element = 2, displacements = 12
+rank 2: num_my_element = 3, displacements = 6
+rank 6: num_my_element = 2, displacements = 16
+rank 5: num_my_element = 2, displacements = 14
+rank 7: num_my_element = 2, displacements = 18
+rank 1: num_my_element = 3, displacements = 3
+rank 3: num_my_element = 3, displacements = 9
+actual number of elements:20
+rank 0: num_my_element = 3, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000446603 seconds
+Input Size: 20
+Process Number: 8
+Sorted.
+rank 6: num_my_element = 2, displacements = 14
+rank 5: num_my_element = 2, displacements = 12
+rank 7: num_my_element = 2, displacements = 16
+rank 8: num_my_element = 2, displacements = 18
+rank 3: num_my_element = 2, displacements = 8
+rank 2: num_my_element = 2, displacements = 6
+rank 4: num_my_element = 2, displacements = 10
+rank 1: num_my_element = 3, displacements = 3
+actual number of elements:20
+rank 0: num_my_element = 3, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000359487 seconds
+Input Size: 20
+Process Number: 9
+Sorted.
+rank 5: num_my_element = 2, displacements = 10
+rank 6: num_my_element = 2, displacements = 12
+rank 7: num_my_element = 2, displacements = 14
+rank 9: num_my_element = 2, displacements = 18
+rank 8: num_my_element = 2, displacements = 16
+rank 4: num_my_element = 2, displacements = 8
+rank 1: num_my_element = 2, displacements = 2
+rank 3: num_my_element = 2, displacements = 6
+rank 2: num_my_element = 2, displacements = 4
+actual number of elements:20
+rank 0: num_my_element = 2, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0013594 seconds
+Input Size: 20
+Process Number: 10
+Sorted.
+rank 7: num_my_element = 2, displacements = 14
+actual number of elements:20
+rank 0: num_my_element = 2, displacements = 0
+rank 3: num_my_element = 2, displacements = 6
+rank 5: num_my_element = 2, displacements = 10
+rank 9: num_my_element = 1, displacements = 18
+rank 8: num_my_element = 2, displacements = 16
+rank 10: num_my_element = 1, displacements = 19
+rank 2: num_my_element = 2, displacements = 4
+rank 6: num_my_element = 2, displacements = 12
+rank 4: num_my_element = 2, displacements = 8
+rank 1: num_my_element = 2, displacements = 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00134572 seconds
+Input Size: 20
+Process Number: 11
+Sorted.
+rank 7: num_my_element = 2, displacements = 14
+rank 6: num_my_element = 2, displacements = 12
+rank 9: num_my_element = 1, displacements = 17
+actual number of elements:rank 4: num_my_element = 2, displacements = 8
+20
+rank 0: num_my_element = 2, displacements = 0
+rank 8: num_my_element = 1, displacements = 16
+rank 11: num_my_element = 1, displacements = 19
+rank 5: num_my_element = 2, displacements = 10
+rank 10: num_my_element = 1, displacements = 18
+rank 2: num_my_element = 2, displacements = 4
+rank 3: num_my_element = 2, displacements = 6
+rank 1: num_my_element = 2, displacements = 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00138908 seconds
+Input Size: 20
+Process Number: 12
+Sorted.
+rank 10: num_my_element = 1, displacements = 17
+actual number of elements:20
+rank 0: num_my_element = 2, displacements = 0
+rank 9: num_my_element = 1, displacements = 16
+rank 3: num_my_element = 2, displacements = 6
+rank 8: num_my_element = 1, displacements = 15
+rank 7: num_my_element = 1, displacements = 14
+rank 12: num_my_element = 1, displacements = 19
+rank 4: num_my_element = 2, displacements = 8
+rank 11: num_my_element = 1, displacements = 18
+rank 1: num_my_element = 2, displacements = 2
+rank 5: num_my_element = 2, displacements = 10
+rank 2: num_my_element = 2, displacements = 4
+rank 6: num_my_element = 2, displacements = 12
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00197241 seconds
+Input Size: 20
+Process Number: 13
+Sorted.
+rank 11: num_my_element = 1, displacements = 17
+rank 5: num_my_element = 2, displacements = 10
+rank 6: num_my_element = 1, displacements = 12
+rank 10: num_my_element = 1, displacements = 16
+rank 12: num_my_element = 1, displacements = 18
+rank 9: num_my_element = 1, displacements = 15
+rank 13: num_my_element = 1, displacements = 19
+rank 1: num_my_element = 2, displacements = 2
+rank 4: num_my_element = 2, displacements = 8
+rank 8: num_my_element = 1, displacements = 14
+actual number of elements:20
+rank 0: num_my_element = 2, displacements = 0
+rank 3: num_my_element = 2, displacements = 6
+rank 2: num_my_element = 2, displacements = 4
+rank 7: num_my_element = 1, displacements = 13
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000979676 seconds
+Input Size: 20
+Process Number: 14
+Sorted.
+rank 3: num_my_element = 2, displacements = 6
+rank 14: num_my_element = 1, displacements = 19
+rank 7: num_my_element = 1, displacements = 12
+rank 11: num_my_element = 1, displacements = 16
+rank 12: num_my_element = 1, displacements = 17
+rank 9: num_my_element = 1, displacements = 14
+actual number of elements:rank 4: num_my_element = 2, displacements = 8
+20
+rank 0: num_my_element = 2, displacements = 0
+rank 8: num_my_element = 1, displacements = 13
+rank 10: num_my_element = 1, displacements = 15
+rank 13: num_my_element = 1, displacements = 18
+rank 5: num_my_element = 1, displacements = 10
+rank 6: num_my_element = 1, displacements = 11
+rank 1: num_my_element = 2, displacements = 2
+rank 2: num_my_element = 2, displacements = 4
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00121458 seconds
+Input Size: 20
+Process Number: 15
+Sorted.
+rank 15: num_my_element = 1, displacements = 19
+rank 3: num_my_element = 2, displacements = 6
+rank 12: num_my_element = 1, displacements = 16
+rank 6: num_my_element = 1, displacements = 10
+rank 2: num_my_element = 2, displacements = 4
+rank 8: num_my_element = 1, displacements = 12
+rank 10: num_my_element = 1, displacements = 14
+rank 9: num_my_element = 1, displacements = 13
+rank 13: num_my_element = 1, displacements = 17
+rank 5: num_my_element = 1, displacements = 9
+rank 11: num_my_element = 1, displacements = 15
+rank 14: num_my_element = 1, displacements = 18
+rank 1: num_my_element = 2, displacements = 2
+rank 4: num_my_element = 1, displacements = 8
+rank 7: num_my_element = 1, displacements = 11
+actual number of elements:20
+rank 0: num_my_element = 2, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00155562 seconds
+Input Size: 20
+Process Number: 16
+Sorted.
+rank 13: num_my_element = 1, displacements = 16
+rank 10: num_my_element = 1, displacements = 13
+rank 12: num_my_element = 1, displacements = 15
+rank 14: num_my_element = 1, displacements = 17
+rank 4: num_my_element = 1, displacements = 7
+rank 8: num_my_element = 1, displacements = 11
+rank 16: num_my_element = 1, displacements = 19
+rank 2: num_my_element = 2, displacements = 4
+rank 3: num_my_element = 1, displacements = 6
+rank 9: num_my_element = 1, displacements = 12
+rank 11: num_my_element = 1, displacements = 14
+rank 5: num_my_element = 1, displacements = 8
+rank 15: num_my_element = 1, displacements = 18
+rank 7: num_my_element = 1, displacements = 10
+rank 1: num_my_element = 2, displacements = 2
+rank 6: num_my_element = 1, displacements = 9
+actual number of elements:20
+rank 0: num_my_element = 2, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00152966 seconds
+Input Size: 20
+Process Number: 17
+Sorted.
+rank 3: num_my_element = 1, displacements = 5
+actual number of elements:20
+rank 0: num_my_element = 2, displacements = 0
+rank 9: num_my_element = 1, displacements = 11
+rank 11: num_my_element = 1, displacements = 13
+rank 13: num_my_element = 1, displacements = 15
+rank 17: num_my_element = 1, displacements = 19
+rank 7: num_my_element = 1, displacements = 9
+rank 12: num_my_element = 1, displacements = 14
+rank 6: num_my_element = 1, displacements = 8
+rank 10: num_my_element = 1, displacements = 12
+rank 15: num_my_element = 1, displacements = 17
+rank 1: num_my_element = 2, displacements = 2
+rank 2: num_my_element = 1, displacements = 4
+rank 4: num_my_element = 1, displacements = 6
+rank 5: num_my_element = 1, displacements = 7
+rank 8: num_my_element = 1, displacements = 10
+rank 14: num_my_element = 1, displacements = 16
+rank 16: num_my_element = 1, displacements = 18
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000860684 seconds
+Input Size: 20
+Process Number: 18
+Sorted.
+rank 4: num_my_element = 1, displacements = 5
+rank 14: num_my_element = 1, displacements = 15
+rank 11: num_my_element = 1, displacements = 12
+rank 7: num_my_element = 1, displacements = 8
+rank 17: num_my_element = 1, displacements = 18
+rank 18: num_my_element = 1, displacements = 19
+actual number of elements:20rank 6: num_my_element = 1, displacements = 7
+rank 10: num_my_element = 1, displacements = 11
+rank 15: num_my_element = 1, displacements = 16
+rank 3: num_my_element = 1, displacements = 4
+rank 9: num_my_element = 1, displacements = 10
+rank 12: num_my_element = 1, displacements = 13
+
+rank 8: num_my_element = 1, displacements = 9
+rank 16: num_my_element = 1, displacements = 17
+rank 0: num_my_element = 2, displacements = 0
+rank 2: num_my_element = 1, displacements = 3
+rank 13: num_my_element = 1, displacements = 14
+rank 5: num_my_element = 1, displacements = 6
+rank 1: num_my_element = 1, displacements = 2
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00267768 seconds
+Input Size: 20
+Process Number: 19
+Sorted.
+rank 15: num_my_element = 1, displacements = 15
+rank 5: num_my_element = 1, displacements = 5
+rank 7: num_my_element = 1, displacements = 7
+rank 9: num_my_element = 1, displacements = 9
+rank 16: num_my_element = 1, displacements = 16
+rank 1: num_my_element = 1, displacements = 1
+rank 2: num_my_element = 1, displacements = 2
+rank 3: num_my_element = 1, displacements = 3
+rank 4: num_my_element = 1, displacements = 4
+rank 6: num_my_element = 1, displacements = 6
+rank 8: num_my_element = 1, displacements = 8
+rank 10: num_my_element = 1, displacements = 10
+rank 11: num_my_element = 1, displacements = 11
+rank 12: num_my_element = 1, displacements = 12
+rank 13: num_my_element = 1, displacements = 13
+rank 14: num_my_element = 1, displacements = 14
+rank 17: num_my_element = 1, displacements = 17
+rank 19: num_my_element = 1, displacements = 19
+actual number of elements:20
+rank 0: num_my_element = 1, displacements = 0
+rank 18: num_my_element = 1, displacements = 18
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00267933 seconds
+Input Size: 20
+Process Number: 20
+Sorted.
+rank 1: num_my_element = 50, displacements = 50
+actual number of elements:100
+rank 0: num_my_element = 50, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000362313 seconds
+Input Size: 100
+Process Number: 2
+Sorted.
+rank 2: num_my_element = 33, displacements = 67
+rank 1: num_my_element = 33, displacements = 34
+actual number of elements:100
+rank 0: num_my_element = 34, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000500866 seconds
+Input Size: 100
+Process Number: 3
+Sorted.
+rank 1: num_my_element = 25, displacements = 25
+actual number of elements:100
+rank 3: num_my_element = 25, displacements = 75
+rank 0: num_my_element = 25, displacements = 0
+rank 2: num_my_element = 25, displacements = 50
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000418043 seconds
+Input Size: 100
+Process Number: 4
+Sorted.
+rank 2: num_my_element = 20, displacements = 40
+actual number of elements:100
+rank 0: num_my_element = 20, displacements = 0
+rank 3: num_my_element = 20, displacements = 60
+rank 4: num_my_element = 20, displacements = 80
+rank 1: num_my_element = 20, displacements = 20
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00141196 seconds
+Input Size: 100
+Process Number: 5
+Sorted.
+rank 4: num_my_element = 16, displacements = 68
+rank 3: num_my_element = 17, displacements = 51
+rank 5: num_my_element = 16, displacements = 84
+rank 2: num_my_element = 17, displacements = 34
+rank 1: num_my_element = 17, displacements = 17
+actual number of elements:100
+rank 0: num_my_element = 17, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00061836 seconds
+Input Size: 100
+Process Number: 6
+Sorted.
+rank 6: num_my_element = 14, displacements = 86
+actual number of elements:100
+rank 0: num_my_element = 15, displacements = 0
+rank 1: num_my_element = 15, displacements = 15
+rank 5: num_my_element = 14, displacements = 72
+rank 2: num_my_element = 14, displacements = 30
+rank 4: num_my_element = 14, displacements = 58
+rank 3: num_my_element = 14, displacements = 44
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000939051 seconds
+Input Size: 100
+Process Number: 7
+Sorted.
+rank 2: num_my_element = 13, displacements = 26
+rank 4: num_my_element = 12, displacements = 52
+rank 5: num_my_element = 12, displacements = 64
+rank 1: num_my_element = 13, displacements = 13
+rank 6: num_my_element = 12, displacements = 76
+rank 7: num_my_element = 12, displacements = 88
+rank 3: num_my_element = 13, displacements = 39
+actual number of elements:100
+rank 0: num_my_element = 13, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000721071 seconds
+Input Size: 100
+Process Number: 8
+Sorted.
+rank 8: num_my_element = 11, displacements = 89
+rank 7: num_my_element = 11, displacements = 78
+rank 2: num_my_element = 11, displacements = 23
+rank 3: num_my_element = 11, displacements = 34
+rank 4: num_my_element = 11, displacements = 45
+rank 5: num_my_element = 11, displacements = 56
+rank 6: num_my_element = 11, displacements = 67
+actual number of elements:100
+rank 1: num_my_element = 11, displacements = 12
+rank 0: num_my_element = 12, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.000552428 seconds
+Input Size: 100
+Process Number: 9
+Sorted.
+rank 2: num_my_element = 10, displacements = 20
+rank 5: num_my_element = 10, displacements = 50
+rank 3: num_my_element = 10, displacements = 30
+rank 4: num_my_element = 10, displacements = 40
+rank 6: num_my_element = 10, displacements = 60
+rank 1: num_my_element = 10, displacements = 10
+rank 9: num_my_element = 10, displacements = 90
+rank 7: num_my_element = 10, displacements = 70
+rank 8: num_my_element = 10, displacements = 80
+actual number of elements:100
+rank 0: num_my_element = 10, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00176387 seconds
+Input Size: 100
+Process Number: 10
+Sorted.
+actual number of elements:100
+rank 0: num_my_element = 10, displacements = 0
+rank 5: num_my_element = 9, displacements = 46
+rank 10: num_my_element = 9, displacements = 91
+rank 4: num_my_element = 9, displacements = 37
+rank 8: num_my_element = 9, displacements = 73
+rank 6: num_my_element = 9, displacements = 55
+rank 1: num_my_element = 9, displacements = 10
+rank 3: num_my_element = 9, displacements = 28
+rank 9: num_my_element = 9, displacements = 82
+rank 7: num_my_element = 9, displacements = 64
+rank 2: num_my_element = 9, displacements = 19
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00178493 seconds
+Input Size: 100
+Process Number: 11
+Sorted.
+actual number of elements:100
+rank 0: num_my_element = 9, displacements = 0
+rank 8: num_my_element = 8, displacements = 68
+rank 11: num_my_element = 8, displacements = 92
+rank 7: num_my_element = 8, displacements = 60
+rank 9: num_my_element = 8, displacements = 76
+rank 3: num_my_element = 9, displacements = 27
+rank 2: num_my_element = 9, displacements = 18
+rank 1: num_my_element = 9, displacements = 9
+rank 4: num_my_element = 8, displacements = 36
+rank 6: num_my_element = 8, displacements = 52
+rank 5: num_my_element = 8, displacements = 44
+rank 10: num_my_element = 8, displacements = 84
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00207856 seconds
+Input Size: 100
+Process Number: 12
+Sorted.
+rank 10: num_my_element = 7, displacements = 79
+rank 1: num_my_element = 8, displacements = 8
+rank 11: num_my_element = 7, displacements = 86
+rank 7: num_my_element = 8, displacements = 56
+rank 9: num_my_element = 7, displacements = 72
+rank 5: num_my_element = 8, displacements = 40
+rank 3: num_my_element = 8, displacements = 24
+rank 6: num_my_element = 8, displacements = 48
+rank 8: num_my_element = 8, displacements = 64
+rank 4: num_my_element = 8, displacements = 32
+rank 12: num_my_element = 7, displacements = 93
+rank 2: num_my_element = 8, displacements = 16
+actual number of elements:100
+rank 0: num_my_element = 8, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00192366 seconds
+Input Size: 100
+Process Number: 13
+Sorted.
+rank 9: num_my_element = 7, displacements = 65
+rank 12: num_my_element = 7, displacements = 86
+rank 7: num_my_element = 7, displacements = 51
+rank 8: num_my_element = 7, displacements = 58
+rank 2: num_my_element = 7, displacements = 16
+rank 11: num_my_element = 7, displacements = 79
+rank 5: num_my_element = 7, displacements = 37
+rank 1: num_my_element = 8, displacements = 8
+rank 3: num_my_element = 7, displacements = 23
+rank 4: num_my_element = 7, displacements = 30
+rank 10: num_my_element = 7, displacements = 72
+rank 13: num_my_element = 7, displacements = 93
+rank 6: num_my_element = 7, displacements = 44
+actual number of elements:100
+rank 0: num_my_element = 8, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00173395 seconds
+Input Size: 100
+Process Number: 14
+Sorted.
+rank 7: num_my_element = 7, displacements = 49
+rank 12: num_my_element = 6, displacements = 82
+actual number of elements:100
+rank 0: num_my_element = 7, displacements = 0
+rank 11: num_my_element = 6, displacements = 76
+rank 13: num_my_element = 6, displacements = 88
+rank 5: num_my_element = 7, displacements = 35
+rank 10: num_my_element = 6, displacements = 70
+rank 6: num_my_element = 7, displacements = 42
+rank 9: num_my_element = 7, displacements = 63
+rank 2: num_my_element = 7, displacements = 14
+rank 8: num_my_element = 7, displacements = 56
+rank 3: num_my_element = 7, displacements = 21
+rank 4: num_my_element = 7, displacements = 28
+rank 1: num_my_element = 7, displacements = 7
+rank 14: num_my_element = 6, displacements = 94
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00248819 seconds
+Input Size: 100
+Process Number: 15
+Sorted.
+rank 2: num_my_element = 7, displacements = 14
+rank 5: num_my_element = 6, displacements = 34
+rank 10: num_my_element = 6, displacements = 64
+rank 7: num_my_element = 6, displacements = 46
+rank 9: num_my_element = 6, displacements = 58
+rank 3: num_my_element = 7, displacements = 21
+rank 15: num_my_element = 6, displacements = 94
+rank 12: num_my_element = 6, displacements = 76
+rank 14: num_my_element = 6, displacements = 88
+rank 8: num_my_element = 6, displacements = 52
+rank 13: num_my_element = 6, displacements = 82
+rank 4: num_my_element = 6, displacements = 28
+rank 6: num_my_element = 6, displacements = 40
+rank 1: num_my_element = 7, displacements = 7
+rank 11: num_my_element = 6, displacements = 70
+actual number of elements:100
+rank 0: num_my_element = 7, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00137153 seconds
+Input Size: 100
+Process Number: 16
+Sorted.
+rank 13: num_my_element = 6, displacements = 78
+rank 6: num_my_element = 6, displacements = 36
+rank 16: num_my_element = 5, displacements = 95
+rank 3: num_my_element = 6, displacements = 18
+rank 8: num_my_element = 6, displacements = 48
+actual number of elements:100
+rank 11: num_my_element = 6, displacements = 66
+rank 15: num_my_element = 5, displacements = 90
+rank 0: num_my_element = 6, displacements = 0
+rank 5: num_my_element = 6, displacements = 30
+rank 14: num_my_element = 6, displacements = 84
+rank 2: num_my_element = 6, displacements = 12
+rank 4: num_my_element = 6, displacements = 24
+rank 7: num_my_element = 6, displacements = 42
+rank 9: num_my_element = 6, displacements = 54
+rank 10: num_my_element = 6, displacements = 60
+rank 12: num_my_element = 6, displacements = 72
+rank 1: num_my_element = 6, displacements = 6
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00150715 seconds
+Input Size: 100
+Process Number: 17
+Sorted.
+rank 2: num_my_element = 6, displacements = 12
+rank 9: num_my_element = 6, displacements = 54
+rank 8: num_my_element = 6, displacements = 48
+rank 17: num_my_element = 5, displacements = 95
+actual number of elements:100
+rank 0: num_my_element = 6, displacements = 0
+rank 1: num_my_element = 6, displacements = 6
+rank 3: num_my_element = 6, displacements = 18
+rank 4: num_my_element = 6, displacements = 24
+rank 5: num_my_element = 6, displacements = 30
+rank 6: num_my_element = 6, displacements = 36
+rank 7: num_my_element = 6, displacements = 42
+rank 10: num_my_element = 5, displacements = 60
+rank 11: num_my_element = 5, displacements = 65
+rank 12: num_my_element = 5, displacements = 70
+rank 13: num_my_element = 5, displacements = 75
+rank 14: num_my_element = 5, displacements = 80
+rank 15: num_my_element = 5, displacements = 85
+rank 16: num_my_element = 5, displacements = 90
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00168431 seconds
+Input Size: 100
+Process Number: 18
+Sorted.
+rank 7: num_my_element = 5, displacements = 40
+rank 5: num_my_element = 5, displacements = 30
+rank 6: num_my_element = 5, displacements = 35
+rank 13: num_my_element = 5, displacements = 70
+rank 16: num_my_element = 5, displacements = 85
+rank 17: num_my_element = 5, displacements = 90
+actual number of elements:100
+rank 0: num_my_element = 6, displacements = 0
+rank 1: num_my_element = 6, displacements = 6
+rank 3: num_my_element = 6, displacements = 18
+rank 4: num_my_element = 6, displacements = 24
+rank 8: num_my_element = 5, displacements = 45
+rank 9: num_my_element = 5, displacements = 50
+rank 10: num_my_element = 5, displacements = 55
+rank 11: num_my_element = 5, displacements = 60
+rank 15: num_my_element = 5, displacements = 80
+rank 2: num_my_element = 6, displacements = 12
+rank 12: num_my_element = 5, displacements = 65
+rank 14: num_my_element = 5, displacements = 75
+rank 18: num_my_element = 5, displacements = 95
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00134698 seconds
+Input Size: 100
+Process Number: 19
+Sorted.
+rank 2: num_my_element = 5, displacements = 10
+rank 1: num_my_element = 5, displacements = 5
+rank 3: num_my_element = 5, displacements = 15
+rank 5: num_my_element = 5, displacements = 25
+rank 6: num_my_element = 5, displacements = 30
+rank 7: num_my_element = 5, displacements = 35
+rank 9: num_my_element = 5, displacements = 45
+rank 10: num_my_element = 5, displacements = 50
+rank 11: num_my_element = 5, displacements = 55
+rank 13: num_my_element = 5, displacements = 65
+rank 14: num_my_element = 5, displacements = 70
+rank 16: num_my_element = 5, displacements = 80
+rank 18: num_my_element = 5, displacements = 90
+rank 19: num_my_element = 5, displacements = 95
+actual number of elements:100
+rank 0: num_my_element = 5, displacements = 0
+rank 4: num_my_element = 5, displacements = 20
+rank 8: num_my_element = 5, displacements = 40
+rank 12: num_my_element = 5, displacements = 60
+rank 15: num_my_element = 5, displacements = 75
+rank 17: num_my_element = 5, displacements = 85
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00288651 seconds
+Input Size: 100
+Process Number: 20
+Sorted.
+actual number of elements:1000
+rank 0: num_my_element = 500, displacements = 0
+rank 1: num_my_element = 500, displacements = 500
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00301457 seconds
+Input Size: 1000
+Process Number: 2
+Sorted.
+actual number of elements:1000
+rank 0: num_my_element = 334, displacements = 0
+rank 2: num_my_element = 333, displacements = 667
+rank 1: num_my_element = 333, displacements = 334
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00490716 seconds
+Input Size: 1000
+Process Number: 3
+Sorted.
+rank 2: num_my_element = 250, displacements = 500
+rank 3: num_my_element = 250, displacements = 750
+rank 1: num_my_element = 250, displacements = 250
+actual number of elements:1000
+rank 0: num_my_element = 250, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00282998 seconds
+Input Size: 1000
+Process Number: 4
+Sorted.
+rank 4: num_my_element = 200, displacements = 800
+rank 2: num_my_element = 200, displacements = 400
+rank 1: num_my_element = 200, displacements = 200
+rank 3: num_my_element = 200, displacements = 600
+actual number of elements:1000
+rank 0: num_my_element = 200, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00313336 seconds
+Input Size: 1000
+Process Number: 5
+Sorted.
+rank 3: num_my_element = 167, displacements = 501
+rank 4: num_my_element = 166, displacements = 668
+rank 5: num_my_element = 166, displacements = 834
+actual number of elements:1000
+rank 1: num_my_element = 167, displacements = 167
+rank 0: num_my_element = 167, displacements = 0
+rank 2: num_my_element = 167, displacements = 334
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00463599 seconds
+Input Size: 1000
+Process Number: 6
+Sorted.
+rank 3: num_my_element = 143, displacements = 429
+rank 6: num_my_element = 142, displacements = 858
+actual number of elements:1000
+rank 0: num_my_element = 143, displacements = 0
+rank 2: num_my_element = 143, displacements = 286
+rank 4: num_my_element = 143, displacements = 572
+rank 1: num_my_element = 143, displacements = 143
+rank 5: num_my_element = 143, displacements = 715
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00411303 seconds
+Input Size: 1000
+Process Number: 7
+Sorted.
+rank 6: num_my_element = 125, displacements = 750
+rank 4: num_my_element = 125, displacements = 500
+rank 7: num_my_element = 125, displacements = 875
+rank 2: num_my_element = 125, displacements = 250
+rank 1: num_my_element = 125, displacements = 125
+rank 3: num_my_element = 125, displacements = 375
+actual number of elements:1000
+rank 0: num_my_element = 125, displacements = 0
+rank 5: num_my_element = 125, displacements = 625
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00363934 seconds
+Input Size: 1000
+Process Number: 8
+Sorted.
+rank 6: num_my_element = 111, displacements = 667
+rank 5: num_my_element = 111, displacements = 556
+rank 7: num_my_element = 111, displacements = 778
+rank 8: num_my_element = 111, displacements = 889
+rank 4: num_my_element = 111, displacements = 445
+rank 2: num_my_element = 111, displacements = 223
+rank 3: num_my_element = 111, displacements = 334
+rank 1: num_my_element = 111, displacements = 112
+actual number of elements:1000
+rank 0: num_my_element = 112, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00402529 seconds
+Input Size: 1000
+Process Number: 9
+Sorted.
+rank 6: num_my_element = 100, displacements = 600
+rank 2: num_my_element = 100, displacements = 200
+rank 5: num_my_element = 100, displacements = 500
+rank 4: num_my_element = 100, displacements = 400
+rank 8: num_my_element = 100, displacements = 800
+rank 7: num_my_element = 100, displacements = 700
+rank 9: num_my_element = 100, displacements = 900
+rank 3: num_my_element = 100, displacements = 300
+rank 1: num_my_element = 100, displacements = 100
+actual number of elements:1000
+rank 0: num_my_element = 100, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00457319 seconds
+Input Size: 1000
+Process Number: 10
+Sorted.
+rank 2: num_my_element = 91, displacements = 182
+rank 7: num_my_element = 91, displacements = 637
+actual number of elements:1000
+rank 1: num_my_element = 91, displacements = 91
+rank 3: num_my_element = 91, displacements = 273
+rank 0: num_my_element = 91, displacements = 0
+rank 9: num_my_element = 91, displacements = 819
+rank 10: num_my_element = 90, displacements = 910
+rank 5: num_my_element = 91, displacements = 455
+rank 4: num_my_element = 91, displacements = 364
+rank 6: num_my_element = 91, displacements = 546
+rank 8: num_my_element = 91, displacements = 728
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00412137 seconds
+Input Size: 1000
+Process Number: 11
+Sorted.
+rank 11: num_my_element = 83, displacements = 917
+rank 3: num_my_element = 84, displacements = 252
+actual number of elements:1000
+rank 2: num_my_element = 84, displacements = 168
+rank 0: num_my_element = 84, displacements = 0
+rank 4: num_my_element = 83, displacements = 336
+rank 8: num_my_element = 83, displacements = 668
+rank 10: num_my_element = 83, displacements = 834
+rank 5: num_my_element = 83, displacements = 419
+rank 9: num_my_element = 83, displacements = 751
+rank 1: num_my_element = 84, displacements = 84
+rank 6: num_my_element = 83, displacements = 502
+rank 7: num_my_element = 83, displacements = 585
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0039053 seconds
+Input Size: 1000
+Process Number: 12
+Sorted.
+rank 5: num_my_element = 77, displacements = 385
+rank 4: num_my_element = 77, displacements = 308
+rank 10: num_my_element = 77, displacements = 770
+rank 2: num_my_element = 77, displacements = 154
+rank 8: num_my_element = 77, displacements = 616
+rank 1: num_my_element = 77, displacements = 77
+rank 9: num_my_element = 77, displacements = 693
+rank 11: num_my_element = 77, displacements = 847
+rank 3: num_my_element = 77, displacements = 231
+rank 6: num_my_element = 77, displacements = 462
+rank 7: num_my_element = 77, displacements = 539
+rank 12: num_my_element = 76, displacements = 924
+actual number of elements:1000
+rank 0: num_my_element = 77, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00443185 seconds
+Input Size: 1000
+Process Number: 13
+Sorted.
+rank 6: num_my_element = 71, displacements = 432
+rank 5: num_my_element = 72, displacements = 360
+rank 13: num_my_element = 71, displacements = 929
+rank 8: num_my_element = 71, displacements = 574
+rank 4: num_my_element = 72, displacements = 288
+rank 9: num_my_element = 71, displacements = 645
+rank 11: num_my_element = 71, displacements = 787
+rank 10: num_my_element = 71, displacements = 716
+rank 3: num_my_element = 72, displacements = 216
+rank 7: num_my_element = 71, displacements = 503
+rank 12: num_my_element = 71, displacements = 858
+rank 2: num_my_element = 72, displacements = 144
+rank 1: num_my_element = 72, displacements = 72
+actual number of elements:1000
+rank 0: num_my_element = 72, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00444271 seconds
+Input Size: 1000
+Process Number: 14
+Sorted.
+rank 2: num_my_element = 67, displacements = 134
+rank 10: num_my_element = 66, displacements = 670
+rank 12: num_my_element = 66, displacements = 802
+rank 7: num_my_element = 67, displacements = 469
+rank 6: num_my_element = 67, displacements = 402
+rank 14: num_my_element = 66, displacements = 934
+rank 11: num_my_element = 66, displacements = 736
+rank 1: num_my_element = 67, displacements = 67
+rank 3: num_my_element = 67, displacements = 201
+rank 8: num_my_element = 67, displacements = 536
+rank 9: num_my_element = 67, displacements = 603
+rank 13: num_my_element = 66, displacements = 868
+rank 4: num_my_element = 67, displacements = 268
+rank 5: num_my_element = 67, displacements = 335
+actual number of elements:1000
+rank 0: num_my_element = 67, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00437852 seconds
+Input Size: 1000
+Process Number: 15
+Sorted.
+rank 4: num_my_element = 63, displacements = 252
+rank 13: num_my_element = 62, displacements = 814
+rank 5: num_my_element = 63, displacements = 315
+rank 11: num_my_element = 62, displacements = 690
+rank 6: num_my_element = 63, displacements = 378
+rank 12: num_my_element = 62, displacements = 752
+rank 15: num_my_element = 62, displacements = 938
+rank 10: num_my_element = 62, displacements = 628
+rank 1: num_my_element = 63, displacements = 63
+rank 9: num_my_element = 62, displacements = 566
+rank 14: num_my_element = 62, displacements = 876
+rank 8: num_my_element = 62, displacements = 504
+rank 3: num_my_element = 63, displacements = 189
+rank 2: num_my_element = 63, displacements = 126
+rank 7: num_my_element = 63, displacements = 441
+actual number of elements:1000
+rank 0: num_my_element = 63, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00428759 seconds
+Input Size: 1000
+Process Number: 16
+Sorted.
+rank 12: num_my_element = 59, displacements = 708
+rank 8: num_my_element = 59, displacements = 472
+rank 10: num_my_element = 59, displacements = 590
+rank 5: num_my_element = 59, displacements = 295
+rank 13: num_my_element = 59, displacements = 767
+rank 7: num_my_element = 59, displacements = 413
+rank 9: num_my_element = 59, displacements = 531
+rank 14: num_my_element = 58, displacements = 826
+rank 3: num_my_element = 59, displacements = 177
+rank 16: num_my_element = 58, displacements = 942
+rank 11: num_my_element = 59, displacements = 649
+rank 15: num_my_element = 58, displacements = 884
+rank 2: num_my_element = 59, displacements = 118
+rank 6: num_my_element = 59, displacements = 354
+rank 1: num_my_element = 59, displacements = 59
+rank 4: num_my_element = 59, displacements = 236
+actual number of elements:1000
+rank 0: num_my_element = 59, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00478631 seconds
+Input Size: 1000
+Process Number: 17
+Sorted.
+rank 6: num_my_element = 56, displacements = 336
+rank 17: num_my_element = 55, displacements = 945
+rank 1: num_my_element = 56, displacements = 56
+rank 8: num_my_element = 56, displacements = 448
+rank 7: num_my_element = 56, displacements = 392
+rank 16: num_my_element = 55, displacements = 890
+rank 2: num_my_element = 56, displacements = 112
+rank 3: num_my_element = 56, displacements = 168
+rank 4: num_my_element = 56, displacements = 224
+rank 10: num_my_element = 55, displacements = 560
+rank 12: num_my_element = 55, displacements = 670
+rank 13: num_my_element = 55, displacements = 725
+rank 9: num_my_element = 56, displacements = 504
+rank 11: num_my_element = 55, displacements = 615
+rank 14: num_my_element = 55, displacements = 780
+rank 15: num_my_element = 55, displacements = 835
+rank 5: num_my_element = 56, displacements = 280
+actual number of elements:1000
+rank 0: num_my_element = 56, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00460702 seconds
+Input Size: 1000
+Process Number: 18
+Sorted.
+rank 6: num_my_element = 53, displacements = 318
+rank 8: num_my_element = 53, displacements = 424
+rank 14: num_my_element = 52, displacements = 740
+rank 16: num_my_element = 52, displacements = 844
+rank 10: num_my_element = 53, displacements = 530
+rank 18: num_my_element = 52, displacements = 948
+rank 9: num_my_element = 53, displacements = 477
+rank 1: num_my_element = 53, displacements = 53
+rank 17: num_my_element = 52, displacements = 896
+rank 11: num_my_element = 53, displacements = 583
+rank 4: num_my_element = 53, displacements = 212
+rank 7: num_my_element = 53, displacements = 371
+rank 13: num_my_element = 52, displacements = 688
+rank 5: num_my_element = 53, displacements = 265
+rank 15: num_my_element = 52, displacements = 792
+rank 12: num_my_element = 52, displacements = 636
+actual number of elements:1000
+rank 0: num_my_element = 53, displacements = 0
+rank 2: num_my_element = 53, displacements = 106
+rank 3: num_my_element = 53, displacements = 159
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00446347 seconds
+Input Size: 1000
+Process Number: 19
+Sorted.
+rank 1: num_my_element = 50, displacements = 50
+rank 8: num_my_element = 50, displacements = 400
+rank 14: num_my_element = 50, displacements = 700
+rank 2: num_my_element = 50, displacements = 100
+rank 3: num_my_element = 50, displacements = 150
+rank 4: num_my_element = 50, displacements = 200
+rank 5: num_my_element = 50, displacements = 250
+rank 6: num_my_element = 50, displacements = 300
+rank 9: num_my_element = 50, displacements = 450
+rank 10: num_my_element = 50, displacements = 500
+rank 11: num_my_element = 50, displacements = 550
+rank 12: num_my_element = 50, displacements = 600
+rank 13: num_my_element = 50, displacements = 650
+rank 15: num_my_element = 50, displacements = 750
+rank 16: num_my_element = 50, displacements = 800
+rank 17: num_my_element = 50, displacements = 850
+rank 18: num_my_element = 50, displacements = 900
+rank 19: num_my_element = 50, displacements = 950
+rank 7: num_my_element = 50, displacements = 350
+actual number of elements:1000
+rank 0: num_my_element = 50, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00316799 seconds
+Input Size: 1000
+Process Number: 20
+Sorted.
+actual number of elements:500
+rank 0: num_my_element = 250, displacements = 0
+rank 1: num_my_element = 250, displacements = 250
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00239318 seconds
+Input Size: 500
+Process Number: 2
+Sorted.
+actual number of elements:500
+rank 0: num_my_element = 167, displacements = 0
+rank 2: num_my_element = 166, displacements = 334
+rank 1: num_my_element = 167, displacements = 167
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0032273 seconds
+Input Size: 500
+Process Number: 3
+Sorted.
+rank 1: num_my_element = 125, displacements = 125
+rank 2: num_my_element = 125, displacements = 250
+rank 3: num_my_element = 125, displacements = 375
+actual number of elements:500
+rank 0: num_my_element = 125, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00127372 seconds
+Input Size: 500
+Process Number: 4
+Sorted.
+actual number of elements:500
+rank 0: num_my_element = 100, displacements = 0
+rank 3: num_my_element = 100, displacements = 300
+rank 4: num_my_element = 100, displacements = 400
+rank 2: num_my_element = 100, displacements = 200
+rank 1: num_my_element = 100, displacements = 100
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00302509 seconds
+Input Size: 500
+Process Number: 5
+Sorted.
+rank 2: num_my_element = 83, displacements = 168
+rank 4: num_my_element = 83, displacements = 334
+rank 1: num_my_element = 84, displacements = 84
+rank 3: num_my_element = 83, displacements = 251
+rank 5: num_my_element = 83, displacements = 417
+actual number of elements:500
+rank 0: num_my_element = 84, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00181325 seconds
+Input Size: 500
+Process Number: 6
+Sorted.
+rank 4: num_my_element = 71, displacements = 287
+rank 2: num_my_element = 72, displacements = 144
+rank 3: num_my_element = 71, displacements = 216
+rank 6: num_my_element = 71, displacements = 429
+rank 5: num_my_element = 71, displacements = 358
+rank 1: num_my_element = 72, displacements = 72
+actual number of elements:500
+rank 0: num_my_element = 72, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00158183 seconds
+Input Size: 500
+Process Number: 7
+Sorted.
+rank 3: num_my_element = 63, displacements = 189
+rank 7: num_my_element = 62, displacements = 438
+rank 5: num_my_element = 62, displacements = 314
+rank 6: num_my_element = 62, displacements = 376
+rank 2: num_my_element = 63, displacements = 126
+rank 4: num_my_element = 62, displacements = 252
+rank 1: num_my_element = 63, displacements = 63
+actual number of elements:500
+rank 0: num_my_element = 63, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00186324 seconds
+Input Size: 500
+Process Number: 8
+Sorted.
+rank 4: num_my_element = 56, displacements = 224
+rank 5: num_my_element = 55, displacements = 280
+rank 1: num_my_element = 56, displacements = 56
+rank 3: num_my_element = 56, displacements = 168
+rank 8: num_my_element = 55, displacements = 445
+actual number of elements:500
+rank 0: num_my_element = 56, displacements = 0
+rank 6: num_my_element = 55, displacements = 335
+rank 7: num_my_element = 55, displacements = 390
+rank 2: num_my_element = 56, displacements = 112
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00207454 seconds
+Input Size: 500
+Process Number: 9
+Sorted.
+rank 3: num_my_element = 50, displacements = 150
+rank 5: num_my_element = 50, displacements = 250
+rank 8: num_my_element = 50, displacements = 400
+rank 4: num_my_element = 50, displacements = 200
+rank 9: num_my_element = 50, displacements = 450
+rank 6: num_my_element = 50, displacements = 300
+rank 7: num_my_element = 50, displacements = 350
+rank 1: num_my_element = 50, displacements = 50
+actual number of elements:rank 2: num_my_element = 50, displacements = 100
+500
+rank 0: num_my_element = 50, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00293227 seconds
+Input Size: 500
+Process Number: 10
+Sorted.
+rank 9: num_my_element = 45, displacements = 410
+rank 7: num_my_element = 45, displacements = 320
+rank 5: num_my_element = 45, displacements = 230
+rank 6: num_my_element = 45, displacements = 275
+rank 8: num_my_element = 45, displacements = 365
+rank 1: num_my_element = 46, displacements = 46
+rank 4: num_my_element = 46, displacements = 184
+rank 2: num_my_element = 46, displacements = 92
+actual number of elements:500
+rank 0: num_my_element = 46, displacements = 0
+rank 3: num_my_element = 46, displacements = 138
+rank 10: num_my_element = 45, displacements = 455
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00289475 seconds
+Input Size: 500
+Process Number: 11
+Sorted.
+rank 3: num_my_element = 42, displacements = 126
+actual number of elements:500
+rank 11: num_my_element = 41, displacements = 459
+rank 0: num_my_element = 42, displacements = 0
+rank 7: num_my_element = 42, displacements = 294
+rank 8: num_my_element = 41, displacements = 336
+rank 5: num_my_element = 42, displacements = 210
+rank 9: num_my_element = 41, displacements = 377
+rank 4: num_my_element = 42, displacements = 168
+rank 6: num_my_element = 42, displacements = 252
+rank 2: num_my_element = 42, displacements = 84
+rank 10: num_my_element = 41, displacements = 418
+rank 1: num_my_element = 42, displacements = 42
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00357351 seconds
+Input Size: 500
+Process Number: 12
+Sorted.
+actual number of elements:500
+rank 0: num_my_element = 39, displacements = 0
+rank 7: num_my_element = 38, displacements = 272
+rank 8: num_my_element = 38, displacements = 310
+rank 12: num_my_element = 38, displacements = 462
+rank 9: num_my_element = 38, displacements = 348
+rank 11: num_my_element = 38, displacements = 424
+rank 10: num_my_element = 38, displacements = 386
+rank 4: num_my_element = 39, displacements = 156
+rank 2: num_my_element = 39, displacements = 78
+rank 5: num_my_element = 39, displacements = 195
+rank 6: num_my_element = 38, displacements = 234
+rank 1: num_my_element = 39, displacements = 39
+rank 3: num_my_element = 39, displacements = 117
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00390232 seconds
+Input Size: 500
+Process Number: 13
+Sorted.
+rank 8: num_my_element = 36, displacements = 288
+rank 7: num_my_element = 36, displacements = 252
+rank 10: num_my_element = 35, displacements = 360
+rank 11: num_my_element = 35, displacements = 395
+rank 12: num_my_element = 35, displacements = 430
+rank 9: num_my_element = 36, displacements = 324
+rank 4: num_my_element = 36, displacements = 144
+rank 3: num_my_element = 36, displacements = 108
+rank 5: num_my_element = 36, displacements = 180
+rank 6: num_my_element = 36, displacements = 216
+rank 13: num_my_element = 35, displacements = 465
+rank 1: num_my_element = 36, displacements = 36
+rank 2: num_my_element = 36, displacements = 72
+actual number of elements:500
+rank 0: num_my_element = 36, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00262357 seconds
+Input Size: 500
+Process Number: 14
+Sorted.
+rank 3: num_my_element = 34, displacements = 102
+rank 13: num_my_element = 33, displacements = 434
+rank 4: num_my_element = 34, displacements = 136
+rank 9: num_my_element = 33, displacements = 302
+rank 6: num_my_element = 33, displacements = 203
+rank 12: num_my_element = 33, displacements = 401
+rank 5: num_my_element = 33, displacements = 170
+rank 7: num_my_element = 33, displacements = 236
+rank 1: num_my_element = 34, displacements = 34
+rank 2: num_my_element = 34, displacements = 68
+rank 8: num_my_element = 33, displacements = 269
+rank 10: num_my_element = 33, displacements = 335
+rank 11: num_my_element = 33, displacements = 368
+rank 14: num_my_element = 33, displacements = 467
+actual number of elements:500
+rank 0: num_my_element = 34, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00270603 seconds
+Input Size: 500
+Process Number: 15
+Sorted.
+rank 3: num_my_element = 32, displacements = 96
+rank 8: num_my_element = 31, displacements = 252
+rank 10: num_my_element = 31, displacements = 314
+rank 14: num_my_element = 31, displacements = 438
+rank 5: num_my_element = 31, displacements = 159
+rank 11: num_my_element = 31, displacements = 345
+rank 2: num_my_element = 32, displacements = 64
+rank 4: num_my_element = 31, displacements = 128
+rank 1: num_my_element = 32, displacements = 32
+rank 15: num_my_element = 31, displacements = 469
+rank 9: num_my_element = 31, displacements = 283
+rank 12: num_my_element = 31, displacements = 376
+rank 7: num_my_element = 31, displacements = 221
+rank 13: num_my_element = 31, displacements = 407
+rank 6: num_my_element = 31, displacements = 190
+actual number of elements:500
+rank 0: num_my_element = 32, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00263004 seconds
+Input Size: 500
+Process Number: 16
+Sorted.
+rank 2: num_my_element = 30, displacements = 60
+rank 5: num_my_element = 30, displacements = 150
+rank 16: num_my_element = 29, displacements = 471
+rank 1: num_my_element = 30, displacements = 30
+rank 12: num_my_element = 29, displacements = 355
+rank 3: num_my_element = 30, displacements = 90
+rank 4: num_my_element = 30, displacements = 120
+rank 6: num_my_element = 30, displacements = 180
+rank 7: num_my_element = 29, displacements = 210
+rank 8: num_my_element = 29, displacements = 239
+rank 10: num_my_element = 29, displacements = 297
+rank 11: num_my_element = 29, displacements = 326
+rank 13: num_my_element = 29, displacements = 384
+rank 14: num_my_element = 29, displacements = 413
+rank 15: num_my_element = 29, displacements = 442
+actual number of elements:500
+rank 0: num_my_element = 30, displacements = 0
+rank 9: num_my_element = 29, displacements = 268
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00294827 seconds
+Input Size: 500
+Process Number: 17
+Sorted.
+actual number of elements:500
+rank 0: num_my_element = 28, displacements = 0
+rank 2: num_my_element = 28, displacements = 56
+rank 3: num_my_element = 28, displacements = 84
+rank 5: num_my_element = 28, displacements = 140
+rank 7: num_my_element = 28, displacements = 196
+rank 12: num_my_element = 28, displacements = 336
+rank 13: num_my_element = 28, displacements = 364
+rank 15: num_my_element = 27, displacements = 419
+rank 17: num_my_element = 27, displacements = 473
+rank 8: num_my_element = 28, displacements = 224
+rank 9: num_my_element = 28, displacements = 252
+rank 11: num_my_element = 28, displacements = 308
+rank 16: num_my_element = 27, displacements = 446
+rank 4: num_my_element = 28, displacements = 112
+rank 6: num_my_element = 28, displacements = 168
+rank 14: num_my_element = 27, displacements = 392
+rank 10: num_my_element = 28, displacements = 280
+rank 1: num_my_element = 28, displacements = 28
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00486866 seconds
+Input Size: 500
+Process Number: 18
+Sorted.
+rank 7: num_my_element = 26, displacements = 188
+rank 10: num_my_element = 26, displacements = 266
+rank 8: num_my_element = 26, displacements = 214
+rank 11: num_my_element = 26, displacements = 292
+rank 12: num_my_element = 26, displacements = 318
+rank 14: num_my_element = 26, displacements = 370
+rank 1: num_my_element = 27, displacements = 27
+rank 2: num_my_element = 27, displacements = 54
+rank 3: num_my_element = 27, displacements = 81
+rank 4: num_my_element = 27, displacements = 108
+rank 5: num_my_element = 27, displacements = 135
+rank 6: num_my_element = 26, displacements = 162
+rank 9: num_my_element = 26, displacements = 240
+rank 13: num_my_element = 26, displacements = 344
+rank 16: num_my_element = 26, displacements = 422
+rank 15: num_my_element = 26, displacements = 396
+rank 18: num_my_element = 26, displacements = 474
+actual number of elements:500
+rank 0: num_my_element = 27, displacements = 0
+rank 17: num_my_element = 26, displacements = 448
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00363663 seconds
+Input Size: 500
+Process Number: 19
+Sorted.
+rank 8: num_my_element = 25, displacements = 200
+rank 10: num_my_element = 25, displacements = 250
+rank 13: num_my_element = 25, displacements = 325
+rank 15: num_my_element = 25, displacements = 375
+rank 19: num_my_element = 25, displacements = 475
+rank 1: num_my_element = 25, displacements = 25
+rank 2: num_my_element = 25, displacements = 50
+rank 3: num_my_element = 25, displacements = 75
+rank 4: num_my_element = 25, displacements = 100
+rank 5: num_my_element = 25, displacements = 125
+rank 6: num_my_element = 25, displacements = 150
+rank 7: num_my_element = 25, displacements = 175
+rank 9: num_my_element = 25, displacements = 225
+rank 11: num_my_element = 25, displacements = 275
+rank 14: num_my_element = 25, displacements = 350
+rank 16: num_my_element = 25, displacements = 400
+rank 17: num_my_element = 25, displacements = 425
+rank 18: num_my_element = 25, displacements = 450
+actual number of elements:500
+rank 0: num_my_element = 25, displacements = 0
+rank 12: num_my_element = 25, displacements = 300
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00364692 seconds
+Input Size: 500
+Process Number: 20
+Sorted.
+actual number of elements:1000
+rank 0: num_my_element = 500, displacements = 0
+rank 1: num_my_element = 500, displacements = 500
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00452695 seconds
+Input Size: 1000
+Process Number: 2
+Sorted.
+actual number of elements:1000
+rank 0: num_my_element = 334, displacements = 0
+rank 1: num_my_element = 333, displacements = 334
+rank 2: num_my_element = 333, displacements = 667
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0032483 seconds
+Input Size: 1000
+Process Number: 3
+Sorted.
+rank 3: num_my_element = 250, displacements = 750
+rank 2: num_my_element = 250, displacements = 500
+rank 1: num_my_element = 250, displacements = 250
+actual number of elements:1000
+rank 0: num_my_element = 250, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00241926 seconds
+Input Size: 1000
+Process Number: 4
+Sorted.
+actual number of elements:1000
+rank 0: num_my_element = 200, displacements = 0
+rank 2: num_my_element = 200, displacements = 400
+rank 3: num_my_element = 200, displacements = 600
+rank 4: num_my_element = 200, displacements = 800
+rank 1: num_my_element = 200, displacements = 200
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00470076 seconds
+Input Size: 1000
+Process Number: 5
+Sorted.
+rank 3: num_my_element = 167, displacements = 501
+rank 1: num_my_element = 167, displacements = 167
+rank 2: num_my_element = 167, displacements = 334
+rank 5: num_my_element = 166, displacements = 834
+rank 4: num_my_element = 166, displacements = 668
+actual number of elements:1000
+rank 0: num_my_element = 167, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00304795 seconds
+Input Size: 1000
+Process Number: 6
+Sorted.
+actual number of elements:1000
+rank 0: num_my_element = 143, displacements = 0
+rank 5: num_my_element = 143, displacements = 715
+rank 4: num_my_element = 143, displacements = 572
+rank 2: num_my_element = 143, displacements = 286
+rank 3: num_my_element = 143, displacements = 429
+rank 1: num_my_element = 143, displacements = 143
+rank 6: num_my_element = 142, displacements = 858
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00428963 seconds
+Input Size: 1000
+Process Number: 7
+Sorted.
+rank 6: num_my_element = 125, displacements = 750
+rank 3: num_my_element = 125, displacements = 375
+rank 4: num_my_element = 125, displacements = 500
+rank 5: num_my_element = 125, displacements = 625
+rank 2: num_my_element = 125, displacements = 250
+rank 7: num_my_element = 125, displacements = 875
+rank 1: num_my_element = 125, displacements = 125
+actual number of elements:1000
+rank 0: num_my_element = 125, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00359657 seconds
+Input Size: 1000
+Process Number: 8
+Sorted.
+rank 3: num_my_element = 111, displacements = 334
+rank 4: num_my_element = 111, displacements = 445
+rank 2: num_my_element = 111, displacements = 223
+rank 8: num_my_element = 111, displacements = 889
+rank 5: num_my_element = 111, displacements = 556
+rank 1: num_my_element = 111, displacements = 112
+rank 6: num_my_element = 111, displacements = 667
+rank 7: num_my_element = 111, displacements = 778
+actual number of elements:1000
+rank 0: num_my_element = 112, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00354295 seconds
+Input Size: 1000
+Process Number: 9
+Sorted.
+rank 6: num_my_element = 100, displacements = 600
+rank 3: num_my_element = 100, displacements = 300
+rank 4: num_my_element = 100, displacements = 400
+rank 8: num_my_element = 100, displacements = 800
+rank 9: num_my_element = 100, displacements = 900
+actual number of elements:1000
+rank 0: num_my_element = 100, displacements = 0
+rank 2: num_my_element = 100, displacements = 200
+rank 5: num_my_element = 100, displacements = 500
+rank 7: num_my_element = 100, displacements = 700
+rank 1: num_my_element = 100, displacements = 100
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00382408 seconds
+Input Size: 1000
+Process Number: 10
+Sorted.
+rank 10: num_my_element = 90, displacements = 910
+actual number of elements:1000
+rank 0: num_my_element = 91, displacements = 0
+rank 8: num_my_element = 91, displacements = 728
+rank 9: num_my_element = 91, displacements = 819
+rank 1: num_my_element = 91, displacements = 91
+rank 4: num_my_element = 91, displacements = 364
+rank 5: num_my_element = 91, displacements = 455
+rank 3: num_my_element = 91, displacements = 273
+rank 2: num_my_element = 91, displacements = 182
+rank 6: num_my_element = 91, displacements = 546
+rank 7: num_my_element = 91, displacements = 637
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00423687 seconds
+Input Size: 1000
+Process Number: 11
+Sorted.
+rank 7: num_my_element = 83, displacements = 585
+rank 11: num_my_element = 83, displacements = 917
+rank 9: num_my_element = 83, displacements = 751
+rank 6: num_my_element = 83, displacements = 502
+rank 1: num_my_element = 84, displacements = 84
+rank 2: num_my_element = 84, displacements = 168
+rank 3: num_my_element = 84, displacements = 252
+rank 4: num_my_element = 83, displacements = 336
+rank 5: num_my_element = 83, displacements = 419
+rank 8: num_my_element = 83, displacements = 668
+rank 10: num_my_element = 83, displacements = 834
+actual number of elements:1000
+rank 0: num_my_element = 84, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00435964 seconds
+Input Size: 1000
+Process Number: 12
+Sorted.
+rank 10: num_my_element = 77, displacements = 770
+rank 1: num_my_element = 77, displacements = 77
+rank 11: num_my_element = 77, displacements = 847
+rank 9: num_my_element = 77, displacements = 693
+rank 6: num_my_element = 77, displacements = 462
+rank 4: num_my_element = 77, displacements = 308
+rank 7: num_my_element = 77, displacements = 539
+rank 8: num_my_element = 77, displacements = 616
+rank 12: num_my_element = 76, displacements = 924
+rank 3: num_my_element = 77, displacements = 231
+rank 5: num_my_element = 77, displacements = 385
+rank 2: num_my_element = 77, displacements = 154
+actual number of elements:1000
+rank 0: num_my_element = 77, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00420241 seconds
+Input Size: 1000
+Process Number: 13
+Sorted.
+rank 7: num_my_element = 71, displacements = 503
+rank 10: num_my_element = 71, displacements = 716
+rank 12: num_my_element = 71, displacements = 858
+rank 9: num_my_element = 71, displacements = 645
+actual number of elements:1000
+rank 11: num_my_element = 71, displacements = 787
+rank 0: num_my_element = 72, displacements = 0
+rank 3: num_my_element = 72, displacements = 216
+rank 13: num_my_element = 71, displacements = 929
+rank 4: num_my_element = 72, displacements = 288
+rank 8: num_my_element = 71, displacements = 574
+rank 2: num_my_element = 72, displacements = 144
+rank 5: num_my_element = 72, displacements = 360
+rank 6: num_my_element = 71, displacements = 432
+rank 1: num_my_element = 72, displacements = 72
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00427523 seconds
+Input Size: 1000
+Process Number: 14
+Sorted.
+rank 9: num_my_element = 67, displacements = 603
+rank 11: num_my_element = 66, displacements = 736
+rank 14: num_my_element = 66, displacements = 934
+rank 12: num_my_element = 66, displacements = 802
+rank 6: num_my_element = 67, displacements = 402
+rank 8: num_my_element = 67, displacements = 536
+rank 13: num_my_element = 66, displacements = 868
+rank 3: num_my_element = 67, displacements = 201
+rank 7: num_my_element = 67, displacements = 469
+rank 10: num_my_element = 66, displacements = 670
+rank 2: num_my_element = 67, displacements = 134
+rank 1: num_my_element = 67, displacements = 67
+rank 4: num_my_element = 67, displacements = 268
+rank 5: num_my_element = 67, displacements = 335
+actual number of elements:1000
+rank 0: num_my_element = 67, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00346515 seconds
+Input Size: 1000
+Process Number: 15
+Sorted.
+rank 15: num_my_element = 62, displacements = 938
+rank 9: num_my_element = 62, displacements = 566
+rank 11: num_my_element = 62, displacements = 690
+rank 13: num_my_element = 62, displacements = 814
+rank 14: num_my_element = 62, displacements = 876
+rank 3: num_my_element = 63, displacements = 189
+rank 8: num_my_element = 62, displacements = 504
+rank 4: num_my_element = 63, displacements = 252
+rank 5: num_my_element = 63, displacements = 315
+rank 7: num_my_element = 63, displacements = 441
+rank 12: num_my_element = 62, displacements = 752
+rank 1: num_my_element = 63, displacements = 63
+rank 6: num_my_element = 63, displacements = 378
+rank 10: num_my_element = 62, displacements = 628
+rank 2: num_my_element = 63, displacements = 126
+actual number of elements:1000
+rank 0: num_my_element = 63, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00428075 seconds
+Input Size: 1000
+Process Number: 16
+Sorted.
+rank 2: num_my_element = 59, displacements = 118
+rank 11: num_my_element = 59, displacements = 649
+rank 3: num_my_element = 59, displacements = 177
+rank 4: num_my_element = 59, displacements = 236
+rank 14: num_my_element = 58, displacements = 826
+rank 16: num_my_element = 58, displacements = 942
+rank 7: num_my_element = 59, displacements = 413
+rank 9: num_my_element = 59, displacements = 531
+rank 15: num_my_element = 58, displacements = 884
+rank 6: num_my_element = 59, displacements = 354
+rank 12: num_my_element = 59, displacements = 708
+rank 1: num_my_element = 59, displacements = 59
+rank 8: num_my_element = 59, displacements = 472
+rank 10: num_my_element = 59, displacements = 590
+rank 13: num_my_element = 59, displacements = 767
+rank 5: num_my_element = 59, displacements = 295
+actual number of elements:1000
+rank 0: num_my_element = 59, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00362423 seconds
+Input Size: 1000
+Process Number: 17
+Sorted.
+rank 3: num_my_element = 56, displacements = 168
+rank 5: num_my_element = 56, displacements = 280
+rank 10: num_my_element = 55, displacements = 560
+rank 17: num_my_element = 55, displacements = 945
+rank 12: num_my_element = 55, displacements = 670
+rank 16: num_my_element = 55, displacements = 890
+rank 1: num_my_element = 56, displacements = 56
+rank 4: num_my_element = 56, displacements = 224
+rank 6: num_my_element = 56, displacements = 336
+rank 8: num_my_element = 56, displacements = 448
+rank 14: num_my_element = 55, displacements = 780
+rank 2: num_my_element = 56, displacements = 112
+rank 7: num_my_element = 56, displacements = 392
+rank 9: num_my_element = 56, displacements = 504
+rank 11: num_my_element = 55, displacements = 615
+rank 13: num_my_element = 55, displacements = 725
+rank 15: num_my_element = 55, displacements = 835
+actual number of elements:1000
+rank 0: num_my_element = 56, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00326869 seconds
+Input Size: 1000
+Process Number: 18
+Sorted.
+rank 10: num_my_element = 53, displacements = 530
+rank 17: num_my_element = 52, displacements = 896
+rank 1: num_my_element = 53, displacements = 53
+rank 4: num_my_element = 53, displacements = 212
+rank 5: num_my_element = 53, displacements = 265
+rank 6: num_my_element = 53, displacements = 318
+rank 13: num_my_element = 52, displacements = 688
+rank 15: num_my_element = 52, displacements = 792
+rank 9: num_my_element = 53, displacements = 477
+rank 18: num_my_element = 52, displacements = 948
+rank 3: num_my_element = 53, displacements = 159
+rank 7: num_my_element = 53, displacements = 371
+rank 8: num_my_element = 53, displacements = 424
+rank 14: num_my_element = 52, displacements = 740
+rank 11: num_my_element = 53, displacements = 583
+rank 12: num_my_element = 52, displacements = 636
+rank 16: num_my_element = 52, displacements = 844
+rank 2: num_my_element = 53, displacements = 106
+actual number of elements:1000
+rank 0: num_my_element = 53, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00338613 seconds
+Input Size: 1000
+Process Number: 19
+Sorted.
+rank 2: num_my_element = 50, displacements = 100
+rank 4: num_my_element = 50, displacements = 200
+rank 6: num_my_element = 50, displacements = 300
+rank 8: num_my_element = 50, displacements = 400
+rank 10: num_my_element = 50, displacements = 500
+rank 13: num_my_element = 50, displacements = 650
+rank 14: num_my_element = 50, displacements = 700
+rank 15: num_my_element = 50, displacements = 750
+rank 1: num_my_element = 50, displacements = 50
+rank 3: num_my_element = 50, displacements = 150
+rank 5: num_my_element = 50, displacements = 250
+rank 7: num_my_element = 50, displacements = 350
+rank 9: num_my_element = 50, displacements = 450
+rank 11: num_my_element = 50, displacements = 550
+rank 12: num_my_element = 50, displacements = 600
+rank 16: num_my_element = 50, displacements = 800
+rank 17: num_my_element = 50, displacements = 850
+rank 18: num_my_element = 50, displacements = 900
+rank 19: num_my_element = 50, displacements = 950
+actual number of elements:1000
+rank 0: num_my_element = 50, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00309075 seconds
+Input Size: 1000
+Process Number: 20
+Sorted.
+actual number of elements:2000
+rank 0: num_my_element = 1000, displacements = 0
+rank 1: num_my_element = 1000, displacements = 1000
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0077916 seconds
+Input Size: 2000
+Process Number: 2
+Sorted.
+actual number of elements:2000
+rank 0: num_my_element = 667, displacements = 0
+rank 2: num_my_element = 666, displacements = 1334
+rank 1: num_my_element = 667, displacements = 667
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00806452 seconds
+Input Size: 2000
+Process Number: 3
+Sorted.
+rank 1: num_my_element = 500, displacements = 500
+rank 2: num_my_element = 500, displacements = 1000
+rank 3: num_my_element = 500, displacements = 1500
+actual number of elements:2000
+rank 0: num_my_element = 500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00631655 seconds
+Input Size: 2000
+Process Number: 4
+Sorted.
+actual number of elements:2000
+rank 0: num_my_element = 400, displacements = 0
+rank 4: num_my_element = 400, displacements = 1600
+rank 2: num_my_element = 400, displacements = 800
+rank 1: num_my_element = 400, displacements = 400
+rank 3: num_my_element = 400, displacements = 1200
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0071228 seconds
+Input Size: 2000
+Process Number: 5
+Sorted.
+rank 5: num_my_element = 333, displacements = 1667
+rank 4: num_my_element = 333, displacements = 1334
+rank 3: num_my_element = 333, displacements = 1001
+rank 2: num_my_element = 333, displacements = 668
+rank 1: num_my_element = 334, displacements = 334
+actual number of elements:2000
+rank 0: num_my_element = 334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00694855 seconds
+Input Size: 2000
+Process Number: 6
+Sorted.
+rank 1: num_my_element = 286, displacements = 286
+rank 6: num_my_element = 285, displacements = 1715
+rank 5: num_my_element = 285, displacements = 1430
+rank 2: num_my_element = 286, displacements = 572
+rank 3: num_my_element = 286, displacements = 858
+rank 4: num_my_element = 286, displacements = 1144
+actual number of elements:2000
+rank 0: num_my_element = 286, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00631221 seconds
+Input Size: 2000
+Process Number: 7
+Sorted.
+rank 7: num_my_element = 250, displacements = 1750
+rank 4: num_my_element = 250, displacements = 1000
+rank 1: num_my_element = 250, displacements = 250
+rank 6: num_my_element = 250, displacements = 1500
+rank 5: num_my_element = 250, displacements = 1250
+actual number of elements:rank 2: num_my_element = 250, displacements = 500
+2000
+rank 3: num_my_element = 250, displacements = 750
+rank 0: num_my_element = 250, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00666511 seconds
+Input Size: 2000
+Process Number: 8
+Sorted.
+rank 3: num_my_element = 222, displacements = 668
+rank 2: num_my_element = 222, displacements = 446
+rank 4: num_my_element = 222, displacements = 890
+rank 5: num_my_element = 222, displacements = 1112
+rank 8: num_my_element = 222, displacements = 1778
+rank 1: num_my_element = 223, displacements = 223
+rank 7: num_my_element = 222, displacements = 1556
+rank 6: num_my_element = 222, displacements = 1334
+actual number of elements:2000
+rank 0: num_my_element = 223, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00665057 seconds
+Input Size: 2000
+Process Number: 9
+Sorted.
+rank 3: num_my_element = 200, displacements = 600
+rank 4: num_my_element = 200, displacements = 800
+rank 8: num_my_element = 200, displacements = 1600
+rank 5: num_my_element = 200, displacements = 1000
+rank 2: num_my_element = 200, displacements = 400
+rank 1: num_my_element = 200, displacements = 200
+actual number of elements:2000
+rank 9: num_my_element = 200, displacements = 1800
+rank 0: num_my_element = 200, displacements = 0
+rank 6: num_my_element = 200, displacements = 1200
+rank 7: num_my_element = 200, displacements = 1400
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00726276 seconds
+Input Size: 2000
+Process Number: 10
+Sorted.
+actual number of elements:2000
+rank 0: num_my_element = 182, displacements = 0
+rank 9: num_my_element = 181, displacements = 1638
+rank 5: num_my_element = 182, displacements = 910
+rank 7: num_my_element = 182, displacements = 1274
+rank 6: num_my_element = 182, displacements = 1092
+rank 1: num_my_element = 182, displacements = 182
+rank 2: num_my_element = 182, displacements = 364
+rank 3: num_my_element = 182, displacements = 546
+rank 4: num_my_element = 182, displacements = 728
+rank 8: num_my_element = 182, displacements = 1456
+rank 10: num_my_element = 181, displacements = 1819
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00669096 seconds
+Input Size: 2000
+Process Number: 11
+Sorted.
+rank 7: num_my_element = 167, displacements = 1169
+rank 3: num_my_element = 167, displacements = 501
+rank 4: num_my_element = 167, displacements = 668
+rank 2: num_my_element = 167, displacements = 334
+rank 10: num_my_element = 166, displacements = 1668
+rank 11: num_my_element = 166, displacements = 1834
+rank 9: num_my_element = 166, displacements = 1502
+rank 1: num_my_element = 167, displacements = 167
+rank 5: num_my_element = 167, displacements = 835
+rank 6: num_my_element = 167, displacements = 1002
+rank 8: num_my_element = 166, displacements = 1336
+actual number of elements:2000
+rank 0: num_my_element = 167, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00654695 seconds
+Input Size: 2000
+Process Number: 12
+Sorted.
+actual number of elements:2000
+rank 0: num_my_element = 154, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00726204 seconds
+Input Size: 2000
+Process Number: 13
+rank 1: num_my_element = 154, displacements = 154
+rank 2: num_my_element = 154, displacements = 308
+rank 3: num_my_element = 154, displacements = 462
+rank 4: num_my_element = 154, displacements = 616
+rank 5: num_my_element = 154, displacements = 770
+rank 6: num_my_element = 154, displacements = 924
+rank 7: num_my_element = 154, displacements = 1078
+rank 8: num_my_element = 154, displacements = 1232
+rank 9: num_my_element = 154, displacements = 1386
+rank 10: num_my_element = 154, displacements = 1540
+rank 11: num_my_element = 153, displacements = 1694
+rank 12: num_my_element = 153, displacements = 1847
+Sorted.
+rank 1: num_my_element = 143, displacements = 143
+rank 12: num_my_element = 142, displacements = 1716
+rank 3: num_my_element = 143, displacements = 429
+rank 2: num_my_element = 143, displacements = 286
+rank 8: num_my_element = 143, displacements = 1144
+rank 9: num_my_element = 143, displacements = 1287
+rank 6: num_my_element = 143, displacements = 858
+rank 11: num_my_element = 143, displacements = 1573
+rank 7: num_my_element = 143, displacements = 1001
+rank 5: num_my_element = 143, displacements = 715
+rank 4: num_my_element = 143, displacements = 572
+rank 10: num_my_element = 143, displacements = 1430
+rank 13: num_my_element = 142, displacements = 1858
+actual number of elements:2000
+rank 0: num_my_element = 143, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00709572 seconds
+Input Size: 2000
+Process Number: 14
+Sorted.
+rank 11: num_my_element = 133, displacements = 1468
+rank 10: num_my_element = 133, displacements = 1335
+rank 4: num_my_element = 134, displacements = 536
+rank 2: num_my_element = 134, displacements = 268
+rank 12: num_my_element = 133, displacements = 1601
+rank 13: num_my_element = 133, displacements = 1734
+rank 8: num_my_element = 133, displacements = 1069
+rank 14: num_my_element = 133, displacements = 1867
+rank 1: num_my_element = 134, displacements = 134
+rank 5: num_my_element = 133, displacements = 670
+rank 6: num_my_element = 133, displacements = 803
+rank 7: num_my_element = 133, displacements = 936
+rank 3: num_my_element = 134, displacements = 402
+rank 9: num_my_element = 133, displacements = 1202
+actual number of elements:2000
+rank 0: num_my_element = 134, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0062633 seconds
+Input Size: 2000
+Process Number: 15
+Sorted.
+rank 2: num_my_element = 125, displacements = 250
+rank 10: num_my_element = 125, displacements = 1250
+rank 12: num_my_element = 125, displacements = 1500
+rank 11: num_my_element = 125, displacements = 1375
+rank 13: num_my_element = 125, displacements = 1625
+rank 14: num_my_element = 125, displacements = 1750
+rank 3: num_my_element = 125, displacements = 375
+rank 5: num_my_element = 125, displacements = 625
+rank 6: num_my_element = 125, displacements = 750
+rank 15: num_my_element = 125, displacements = 1875
+rank 1: num_my_element = 125, displacements = 125
+rank 7: num_my_element = 125, displacements = 875
+rank 8: num_my_element = 125, displacements = 1000
+rank 9: num_my_element = 125, displacements = 1125
+rank 4: num_my_element = 125, displacements = 500
+actual number of elements:2000
+rank 0: num_my_element = 125, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00725053 seconds
+Input Size: 2000
+Process Number: 16
+Sorted.
+rank 1: num_my_element = 118, displacements = 118
+rank 2: num_my_element = 118, displacements = 236
+rank 3: num_my_element = 118, displacements = 354
+rank 4: num_my_element = 118, displacements = 472
+rank 6: num_my_element = 118, displacements = 708
+rank 7: num_my_element = 118, displacements = 826
+rank 8: num_my_element = 118, displacements = 944
+rank 9: num_my_element = 118, displacements = 1062
+rank 10: num_my_element = 118, displacements = 1180
+rank 11: num_my_element = 117, displacements = 1298
+rank 12: num_my_element = 117, displacements = 1415
+rank 13: num_my_element = 117, displacements = 1532
+rank 14: num_my_element = 117, displacements = 1649
+rank 15: num_my_element = 117, displacements = 1766
+rank 16: num_my_element = 117, displacements = 1883
+rank 5: num_my_element = 118, displacements = 590
+actual number of elements:2000
+rank 0: num_my_element = 118, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00822019 seconds
+Input Size: 2000
+Process Number: 17
+Sorted.
+rank 6: num_my_element = 111, displacements = 668
+rank 10: num_my_element = 111, displacements = 1112
+rank 12: num_my_element = 111, displacements = 1334
+rank 13: num_my_element = 111, displacements = 1445
+rank 14: num_my_element = 111, displacements = 1556
+rank 17: num_my_element = 111, displacements = 1889
+rank 1: num_my_element = 112, displacements = 112
+rank 5: num_my_element = 111, displacements = 557
+rank 9: num_my_element = 111, displacements = 1001
+rank 11: num_my_element = 111, displacements = 1223
+rank 7: num_my_element = 111, displacements = 779
+rank 15: num_my_element = 111, displacements = 1667
+rank 16: num_my_element = 111, displacements = 1778
+rank 3: num_my_element = 111, displacements = 335
+rank 2: num_my_element = 111, displacements = 224
+rank 8: num_my_element = 111, displacements = 890
+rank 4: num_my_element = 111, displacements = 446
+actual number of elements:2000
+rank 0: num_my_element = 112, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0079253 seconds
+Input Size: 2000
+Process Number: 18
+Sorted.
+actual number of elements:2000
+rank 0: num_my_element = 106, displacements = 0
+rank 9: num_my_element = 105, displacements = 950
+rank 18: num_my_element = 105, displacements = 1895
+rank 2: num_my_element = 106, displacements = 212
+rank 3: num_my_element = 106, displacements = 318
+rank 14: num_my_element = 105, displacements = 1475
+rank 16: num_my_element = 105, displacements = 1685
+rank 1: num_my_element = 106, displacements = 106
+rank 4: num_my_element = 106, displacements = 424
+rank 6: num_my_element = 105, displacements = 635
+rank 7: num_my_element = 105, displacements = 740
+rank 11: num_my_element = 105, displacements = 1160
+rank 13: num_my_element = 105, displacements = 1370
+rank 15: num_my_element = 105, displacements = 1580
+rank 17: num_my_element = 105, displacements = 1790
+rank 5: num_my_element = 105, displacements = 530
+rank 12: num_my_element = 105, displacements = 1265
+rank 8: num_my_element = 105, displacements = 845
+rank 10: num_my_element = 105, displacements = 1055
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00920362 seconds
+Input Size: 2000
+Process Number: 19
+Sorted.
+rank 5: num_my_element = 100, displacements = 500
+actual number of elements:rank 10: num_my_element = 100, displacements = 1000
+rank 17: num_my_element = 100, displacements = 1700
+2000
+rank 11: num_my_element = 100, displacements = 1100
+rank 19: num_my_element = 100, displacements = 1900
+rank 0: num_my_element = 100, displacements = 0
+rank 8: num_my_element = 100, displacements = 800
+rank 3: num_my_element = 100, displacements = 300
+rank 12: num_my_element = 100, displacements = 1200
+rank 18: num_my_element = 100, displacements = 1800
+rank 7: num_my_element = 100, displacements = 700
+rank 14: num_my_element = 100, displacements = 1400
+rank 16: num_my_element = 100, displacements = 1600
+rank 13: num_my_element = 100, displacements = 1300
+rank 15: num_my_element = 100, displacements = 1500
+rank 2: num_my_element = 100, displacements = 200
+rank 6: num_my_element = 100, displacements = 600
+rank 1: num_my_element = 100, displacements = 100
+rank 4: num_my_element = 100, displacements = 400
+rank 9: num_my_element = 100, displacements = 900
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.00756 seconds
+Input Size: 2000
+Process Number: 20
+Sorted.
+rank 1: num_my_element = 2500, displacements = 2500
+actual number of elements:5000
+rank 0: num_my_element = 2500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.022081 seconds
+Input Size: 5000
+Process Number: 2
+Sorted.
+rank 2: num_my_element = 1666, displacements = 3334
+actual number of elements:5000
+rank 0: num_my_element = 1667, displacements = 0
+rank 1: num_my_element = 1667, displacements = 1667
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0238512 seconds
+Input Size: 5000
+Process Number: 3
+Sorted.
+rank 2: num_my_element = 1250, displacements = 2500
+actual number of elements:5000
+rank 0: num_my_element = 1250, displacements = 0
+rank 3: num_my_element = 1250, displacements = 3750
+rank 1: num_my_element = 1250, displacements = 1250
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0207264 seconds
+Input Size: 5000
+Process Number: 4
+Sorted.
+rank 4: num_my_element = 1000, displacements = 4000
+rank 2: num_my_element = 1000, displacements = 2000
+actual number of elements:5000
+rank 0: num_my_element = 1000, displacements = 0
+rank 1: num_my_element = 1000, displacements = 1000
+rank 3: num_my_element = 1000, displacements = 3000
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0280116 seconds
+Input Size: 5000
+Process Number: 5
+Sorted.
+rank 3: num_my_element = 833, displacements = 2501
+rank 5: num_my_element = 833, displacements = 4167
+rank 4: num_my_element = 833, displacements = 3334
+rank 1: num_my_element = 834, displacements = 834
+rank 2: num_my_element = 833, displacements = 1668
+actual number of elements:5000
+rank 0: num_my_element = 834, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.018042 seconds
+Input Size: 5000
+Process Number: 6
+Sorted.
+rank 3: num_my_element = 714, displacements = 2144
+rank 6: num_my_element = 714, displacements = 4286
+rank 4: num_my_element = 714, displacements = 2858
+rank 5: num_my_element = 714, displacements = 3572
+rank 2: num_my_element = 714, displacements = 1430
+rank 1: num_my_element = 715, displacements = 715
+actual number of elements:5000
+rank 0: num_my_element = 715, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0169283 seconds
+Input Size: 5000
+Process Number: 7
+Sorted.
+rank 7: num_my_element = 625, displacements = 4375
+rank 4: num_my_element = 625, displacements = 2500
+rank 1: num_my_element = 625, displacements = 625
+rank 6: num_my_element = 625, displacements = 3750
+rank 2: num_my_element = 625, displacements = 1250
+rank 3: num_my_element = 625, displacements = 1875
+rank 5: num_my_element = 625, displacements = 3125
+actual number of elements:5000
+rank 0: num_my_element = 625, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0177519 seconds
+Input Size: 5000
+Process Number: 8
+Sorted.
+rank 5: num_my_element = 555, displacements = 2780
+rank 6: num_my_element = 555, displacements = 3335
+rank 8: num_my_element = 555, displacements = 4445
+rank 4: num_my_element = 556, displacements = 2224
+rank 7: num_my_element = 555, displacements = 3890
+rank 1: num_my_element = 556, displacements = 556
+rank 2: num_my_element = 556, displacements = 1112
+rank 3: num_my_element = 556, displacements = 1668
+actual number of elements:5000
+rank 0: num_my_element = 556, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0159521 seconds
+Input Size: 5000
+Process Number: 9
+Sorted.
+rank 9: num_my_element = 500, displacements = 4500
+rank 7: num_my_element = 500, displacements = 3500
+rank 3: num_my_element = 500, displacements = 1500
+rank 6: num_my_element = 500, displacements = 3000
+rank 1: num_my_element = 500, displacements = 500
+rank 8: num_my_element = 500, displacements = 4000
+rank 5: num_my_element = 500, displacements = 2500
+rank 2: num_my_element = 500, displacements = 1000
+rank 4: num_my_element = 500, displacements = 2000
+actual number of elements:5000
+rank 0: num_my_element = 500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0149996 seconds
+Input Size: 5000
+Process Number: 10
+Sorted.
+rank 7: num_my_element = 454, displacements = 3184
+rank 5: num_my_element = 455, displacements = 2275
+rank 3: num_my_element = 455, displacements = 1365
+rank 10: num_my_element = 454, displacements = 4546
+rank 4: num_my_element = 455, displacements = 1820
+rank 6: num_my_element = 454, displacements = 2730
+rank 9: num_my_element = 454, displacements = 4092
+rank 2: num_my_element = 455, displacements = 910
+rank 8: num_my_element = 454, displacements = 3638
+rank 1: num_my_element = 455, displacements = 455
+actual number of elements:5000
+rank 0: num_my_element = 455, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0190342 seconds
+Input Size: 5000
+Process Number: 11
+Sorted.
+rank 9: num_my_element = 416, displacements = 3752
+rank 5: num_my_element = 417, displacements = 2085
+rank 11: num_my_element = 416, displacements = 4584
+rank 6: num_my_element = 417, displacements = 2502
+rank 4: num_my_element = 417, displacements = 1668
+rank 8: num_my_element = 416, displacements = 3336
+rank 7: num_my_element = 417, displacements = 2919
+rank 10: num_my_element = 416, displacements = 4168
+rank 2: num_my_element = 417, displacements = 834
+rank 1: num_my_element = 417, displacements = 417
+rank 3: num_my_element = 417, displacements = 1251
+actual number of elements:5000
+rank 0: num_my_element = 417, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0169905 seconds
+Input Size: 5000
+Process Number: 12
+Sorted.
+rank 11: num_my_element = 384, displacements = 4232
+rank 10: num_my_element = 384, displacements = 3848
+rank 9: num_my_element = 384, displacements = 3464
+rank 1: num_my_element = 385, displacements = 385
+rank 2: num_my_element = 385, displacements = 770
+rank 4: num_my_element = 385, displacements = 1540
+rank 7: num_my_element = 385, displacements = 2695
+rank 5: num_my_element = 385, displacements = 1925
+rank 8: num_my_element = 384, displacements = 3080
+rank 3: num_my_element = 385, displacements = 1155
+rank 6: num_my_element = 385, displacements = 2310
+rank 12: num_my_element = 384, displacements = 4616
+actual number of elements:5000
+rank 0: num_my_element = 385, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0195406 seconds
+Input Size: 5000
+Process Number: 13
+Sorted.
+rank 7: num_my_element = 357, displacements = 2501
+rank 8: num_my_element = 357, displacements = 2858
+rank 11: num_my_element = 357, displacements = 3929
+rank 13: num_my_element = 357, displacements = 4643
+rank 10: num_my_element = 357, displacements = 3572
+rank 2: num_my_element = 357, displacements = 716
+rank 6: num_my_element = 357, displacements = 2144
+rank 3: num_my_element = 357, displacements = 1073
+rank 4: num_my_element = 357, displacements = 1430
+rank 9: num_my_element = 357, displacements = 3215
+rank 12: num_my_element = 357, displacements = 4286
+rank 1: num_my_element = 358, displacements = 358
+rank 5: num_my_element = 357, displacements = 1787
+actual number of elements:5000
+rank 0: num_my_element = 358, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0198029 seconds
+Input Size: 5000
+Process Number: 14
+Sorted.
+rank 14: num_my_element = 333, displacements = 4667
+rank 10: num_my_element = 333, displacements = 3335
+rank 3: num_my_element = 334, displacements = 1002
+rank 7: num_my_element = 333, displacements = 2336
+rank 13: num_my_element = 333, displacements = 4334
+rank 11: num_my_element = 333, displacements = 3668
+rank 12: num_my_element = 333, displacements = 4001
+rank 8: num_my_element = 333, displacements = 2669
+rank 4: num_my_element = 334, displacements = 1336
+rank 1: num_my_element = 334, displacements = 334
+rank 2: num_my_element = 334, displacements = 668
+rank 9: num_my_element = 333, displacements = 3002
+rank 5: num_my_element = 333, displacements = 1670
+rank 6: num_my_element = 333, displacements = 2003
+actual number of elements:5000
+rank 0: num_my_element = 334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0190133 seconds
+Input Size: 5000
+Process Number: 15
+Sorted.
+rank 6: num_my_element = 313, displacements = 1878
+rank 10: num_my_element = 312, displacements = 3128
+rank 5: num_my_element = 313, displacements = 1565
+rank 13: num_my_element = 312, displacements = 4064
+rank 3: num_my_element = 313, displacements = 939
+rank 7: num_my_element = 313, displacements = 2191
+rank 8: num_my_element = 312, displacements = 2504
+rank 9: num_my_element = 312, displacements = 2816
+rank 12: num_my_element = 312, displacements = 3752
+rank 1: num_my_element = 313, displacements = 313
+rank 4: num_my_element = 313, displacements = 1252
+rank 14: num_my_element = 312, displacements = 4376
+rank 2: num_my_element = 313, displacements = 626
+rank 11: num_my_element = 312, displacements = 3440
+rank 15: num_my_element = 312, displacements = 4688
+actual number of elements:5000
+rank 0: num_my_element = 313, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0161143 seconds
+Input Size: 5000
+Process Number: 16
+Sorted.
+rank 6: num_my_element = 294, displacements = 1766
+rank 2: num_my_element = 294, displacements = 590
+rank 16: num_my_element = 294, displacements = 4706
+rank 4: num_my_element = 294, displacements = 1178
+rank 8: num_my_element = 294, displacements = 2354
+rank 3: num_my_element = 294, displacements = 884
+rank 9: num_my_element = 294, displacements = 2648
+rank 12: num_my_element = 294, displacements = 3530
+rank 14: num_my_element = 294, displacements = 4118
+rank 5: num_my_element = 294, displacements = 1472
+rank 10: num_my_element = 294, displacements = 2942
+rank 11: num_my_element = 294, displacements = 3236
+rank 15: num_my_element = 294, displacements = 4412
+rank 7: num_my_element = 294, displacements = 2060
+rank 13: num_my_element = 294, displacements = 3824
+rank 1: num_my_element = 295, displacements = 295
+actual number of elements:5000
+rank 0: num_my_element = 295, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0180078 seconds
+Input Size: 5000
+Process Number: 17
+Sorted.
+rank 15: num_my_element = 277, displacements = 4169
+rank 10: num_my_element = 278, displacements = 2780
+rank 13: num_my_element = 278, displacements = 3614
+rank 14: num_my_element = 277, displacements = 3892
+rank 8: num_my_element = 278, displacements = 2224
+rank 2: num_my_element = 278, displacements = 556
+rank 16: num_my_element = 277, displacements = 4446
+rank 4: num_my_element = 278, displacements = 1112
+rank 17: num_my_element = 277, displacements = 4723
+rank 5: num_my_element = 278, displacements = 1390
+rank 7: num_my_element = 278, displacements = 1946
+rank 9: num_my_element = 278, displacements = 2502
+rank 11: num_my_element = 278, displacements = 3058
+rank 12: num_my_element = 278, displacements = 3336
+rank 6: num_my_element = 278, displacements = 1668
+rank 1: num_my_element = 278, displacements = 278
+rank 3: num_my_element = 278, displacements = 834
+actual number of elements:5000
+rank 0: num_my_element = 278, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.014355 seconds
+Input Size: 5000
+Process Number: 18
+Sorted.
+rank 10: num_my_element = 263, displacements = 2633
+rank 12: num_my_element = 263, displacements = 3159
+rank 3: num_my_element = 263, displacements = 792
+rank 4: num_my_element = 263, displacements = 1055
+rank 6: num_my_element = 263, displacements = 1581
+rank 8: num_my_element = 263, displacements = 2107
+rank 9: num_my_element = 263, displacements = 2370
+rank 11: num_my_element = 263, displacements = 2896
+rank 18: num_my_element = 263, displacements = 4737
+rank 1: num_my_element = 264, displacements = 264
+rank 2: num_my_element = 264, displacements = 528
+rank 5: num_my_element = 263, displacements = 1318
+rank 7: num_my_element = 263, displacements = 1844
+rank 13: num_my_element = 263, displacements = 3422
+rank 14: num_my_element = 263, displacements = 3685
+rank 15: num_my_element = 263, displacements = 3948
+rank 16: num_my_element = 263, displacements = 4211
+rank 17: num_my_element = 263, displacements = 4474
+actual number of elements:5000
+rank 0: num_my_element = 264, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0132911 seconds
+Input Size: 5000
+Process Number: 19
+Sorted.
+rank 1: num_my_element = 250, displacements = 250
+rank 10: num_my_element = 250, displacements = 2500
+rank 18: num_my_element = 250, displacements = 4500
+rank 11: num_my_element = 250, displacements = 2750
+rank 19: num_my_element = 250, displacements = 4750
+rank 14: num_my_element = 250, displacements = 3500
+rank 16: num_my_element = 250, displacements = 4000
+rank 2: num_my_element = 250, displacements = 500
+rank 3: num_my_element = 250, displacements = 750
+rank 5: num_my_element = 250, displacements = 1250
+rank 6: num_my_element = 250, displacements = 1500
+rank 13: num_my_element = 250, displacements = 3250
+rank 15: num_my_element = 250, displacements = 3750
+rank 17: num_my_element = 250, displacements = 4250
+rank 12: num_my_element = 250, displacements = 3000
+rank 7: num_my_element = 250, displacements = 1750
+rank 8: num_my_element = 250, displacements = 2000
+rank 9: num_my_element = 250, displacements = 2250
+rank 4: num_my_element = 250, displacements = 1000
+actual number of elements:5000
+rank 0: num_my_element = 250, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0168867 seconds
+Input Size: 5000
+Process Number: 20
+Sorted.
+rank 1: num_my_element = 4000, displacements = 4000
+actual number of elements:8000
+rank 0: num_my_element = 4000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0460759 seconds
+Input Size: 8000
+Process Number: 2
+Sorted.
+rank 1: num_my_element = 2667, displacements = 2667
+rank 2: num_my_element = 2666, displacements = 5334
+actual number of elements:8000
+rank 0: num_my_element = 2667, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0403798 seconds
+Input Size: 8000
+Process Number: 3
+Sorted.
+rank 3: num_my_element = 2000, displacements = 6000
+rank 2: num_my_element = 2000, displacements = 4000
+rank 1: num_my_element = 2000, displacements = 2000
+actual number of elements:8000
+rank 0: num_my_element = 2000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0334619 seconds
+Input Size: 8000
+Process Number: 4
+Sorted.
+rank 4: num_my_element = 1600, displacements = 6400
+rank 2: num_my_element = 1600, displacements = 3200
+rank 1: num_my_element = 1600, displacements = 1600
+rank 3: num_my_element = 1600, displacements = 4800
+actual number of elements:8000
+rank 0: num_my_element = 1600, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0312645 seconds
+Input Size: 8000
+Process Number: 5
+Sorted.
+rank 5: num_my_element = 1333, displacements = 6667
+rank 4: num_my_element = 1333, displacements = 5334
+rank 2: num_my_element = 1333, displacements = 2668
+rank 3: num_my_element = 1333, displacements = 4001
+rank 1: num_my_element = 1334, displacements = 1334
+actual number of elements:8000
+rank 0: num_my_element = 1334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0328258 seconds
+Input Size: 8000
+Process Number: 6
+Sorted.
+rank 5: num_my_element = 1143, displacements = 5715
+rank 4: num_my_element = 1143, displacements = 4572
+rank 6: num_my_element = 1142, displacements = 6858
+rank 1: num_my_element = 1143, displacements = 1143
+rank 3: num_my_element = 1143, displacements = 3429
+rank 2: num_my_element = 1143, displacements = 2286
+actual number of elements:8000
+rank 0: num_my_element = 1143, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0295435 seconds
+Input Size: 8000
+Process Number: 7
+Sorted.
+rank 4: num_my_element = 1000, displacements = 4000
+rank 2: num_my_element = 1000, displacements = 2000
+rank 7: num_my_element = 1000, displacements = 7000
+rank 5: num_my_element = 1000, displacements = 5000
+rank 1: num_my_element = 1000, displacements = 1000
+rank 3: num_my_element = 1000, displacements = 3000
+rank 6: num_my_element = 1000, displacements = 6000
+actual number of elements:8000
+rank 0: num_my_element = 1000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0274435 seconds
+Input Size: 8000
+Process Number: 8
+Sorted.
+rank 4: num_my_element = 889, displacements = 3556
+rank 3: num_my_element = 889, displacements = 2667
+rank 1: num_my_element = 889, displacements = 889
+rank 2: num_my_element = 889, displacements = 1778
+rank 7: num_my_element = 889, displacements = 6223
+rank 8: num_my_element = 888, displacements = 7112
+rank 6: num_my_element = 889, displacements = 5334
+rank 5: num_my_element = 889, displacements = 4445
+actual number of elements:8000
+rank 0: num_my_element = 889, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.029797 seconds
+Input Size: 8000
+Process Number: 9
+Sorted.
+rank 7: num_my_element = 800, displacements = 5600
+rank 8: num_my_element = 800, displacements = 6400
+rank 4: num_my_element = 800, displacements = 3200
+rank 1: num_my_element = 800, displacements = 800
+rank 2: num_my_element = 800, displacements = 1600
+rank 5: num_my_element = 800, displacements = 4000
+rank 6: num_my_element = 800, displacements = 4800
+rank 3: num_my_element = 800, displacements = 2400
+rank 9: num_my_element = 800, displacements = 7200
+actual number of elements:8000
+rank 0: num_my_element = 800, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0234922 seconds
+Input Size: 8000
+Process Number: 10
+Sorted.
+rank 4: num_my_element = 727, displacements = 2911
+rank 5: num_my_element = 727, displacements = 3638
+rank 1: num_my_element = 728, displacements = 728
+rank 10: num_my_element = 727, displacements = 7273
+rank 8: num_my_element = 727, displacements = 5819
+rank 3: num_my_element = 727, displacements = 2184
+rank 6: num_my_element = 727, displacements = 4365
+rank 2: num_my_element = 728, displacements = 1456
+rank 7: num_my_element = 727, displacements = 5092
+rank 9: num_my_element = 727, displacements = 6546
+actual number of elements:8000
+rank 0: num_my_element = 728, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.02551 seconds
+Input Size: 8000
+Process Number: 11
+Sorted.
+rank 2: num_my_element = 667, displacements = 1334
+rank 3: num_my_element = 667, displacements = 2001
+rank 1: num_my_element = 667, displacements = 667
+rank 4: num_my_element = 667, displacements = 2668
+rank 5: num_my_element = 667, displacements = 3335
+rank 6: num_my_element = 667, displacements = 4002
+rank 7: num_my_element = 667, displacements = 4669
+rank 10: num_my_element = 666, displacements = 6668
+rank 11: num_my_element = 666, displacements = 7334
+actual number of elements:8000
+rank 0: num_my_element = 667, displacements = 0
+rank 8: num_my_element = 666, displacements = 5336
+rank 9: num_my_element = 666, displacements = 6002
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.026832 seconds
+Input Size: 8000
+Process Number: 12
+Sorted.
+rank 9: num_my_element = 615, displacements = 5540
+rank 10: num_my_element = 615, displacements = 6155
+rank 12: num_my_element = 615, displacements = 7385
+rank 5: num_my_element = 615, displacements = 3080
+rank 6: num_my_element = 615, displacements = 3695
+rank 8: num_my_element = 615, displacements = 4925
+rank 7: num_my_element = 615, displacements = 4310
+rank 11: num_my_element = 615, displacements = 6770
+rank 1: num_my_element = 616, displacements = 616
+rank 2: num_my_element = 616, displacements = 1232
+rank 3: num_my_element = 616, displacements = 1848
+rank 4: num_my_element = 616, displacements = 2464
+actual number of elements:8000
+rank 0: num_my_element = 616, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0245926 seconds
+Input Size: 8000
+Process Number: 13
+Sorted.
+rank 1: num_my_element = 572, displacements = 572
+rank 7: num_my_element = 571, displacements = 4003
+rank 8: num_my_element = 571, displacements = 4574
+rank 11: num_my_element = 571, displacements = 6287
+rank 13: num_my_element = 571, displacements = 7429
+rank 6: num_my_element = 571, displacements = 3432
+rank 9: num_my_element = 571, displacements = 5145
+rank 12: num_my_element = 571, displacements = 6858
+rank 10: num_my_element = 571, displacements = 5716
+rank 5: num_my_element = 572, displacements = 2860
+rank 3: num_my_element = 572, displacements = 1716
+rank 2: num_my_element = 572, displacements = 1144
+rank 4: num_my_element = 572, displacements = 2288
+actual number of elements:8000
+rank 0: num_my_element = 572, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0253838 seconds
+Input Size: 8000
+Process Number: 14
+Sorted.
+rank 10: num_my_element = 533, displacements = 5335
+rank 14: num_my_element = 533, displacements = 7467
+rank 5: num_my_element = 533, displacements = 2670
+rank 9: num_my_element = 533, displacements = 4802
+rank 4: num_my_element = 534, displacements = 2136
+rank 6: num_my_element = 533, displacements = 3203
+rank 12: num_my_element = 533, displacements = 6401
+rank 13: num_my_element = 533, displacements = 6934
+rank 3: num_my_element = 534, displacements = 1602
+rank 1: num_my_element = 534, displacements = 534
+rank 11: num_my_element = 533, displacements = 5868
+rank 2: num_my_element = 534, displacements = 1068
+rank 7: num_my_element = 533, displacements = 3736
+rank 8: num_my_element = 533, displacements = 4269
+actual number of elements:8000
+rank 0: num_my_element = 534, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0274648 seconds
+Input Size: 8000
+Process Number: 15
+Sorted.
+rank 5: num_my_element = 500, displacements = 2500
+rank 6: num_my_element = 500, displacements = 3000
+rank 14: num_my_element = 500, displacements = 7000
+rank 4: num_my_element = 500, displacements = 2000
+rank 10: num_my_element = 500, displacements = 5000
+rank 12: num_my_element = 500, displacements = 6000
+rank 11: num_my_element = 500, displacements = 5500
+rank 7: num_my_element = 500, displacements = 3500
+rank 8: num_my_element = 500, displacements = 4000
+rank 9: num_my_element = 500, displacements = 4500
+rank 13: num_my_element = 500, displacements = 6500
+rank 15: num_my_element = 500, displacements = 7500
+rank 2: num_my_element = 500, displacements = 1000
+rank 3: num_my_element = 500, displacements = 1500
+rank 1: num_my_element = 500, displacements = 500
+actual number of elements:8000
+rank 0: num_my_element = 500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0253515 seconds
+Input Size: 8000
+Process Number: 16
+Sorted.
+rank 5: num_my_element = 471, displacements = 2355
+rank 8: num_my_element = 471, displacements = 3768
+rank 12: num_my_element = 470, displacements = 5650
+rank 2: num_my_element = 471, displacements = 942
+rank 6: num_my_element = 471, displacements = 2826
+rank 15: num_my_element = 470, displacements = 7060
+rank 16: num_my_element = 470, displacements = 7530
+rank 3: num_my_element = 471, displacements = 1413
+rank 4: num_my_element = 471, displacements = 1884
+rank 10: num_my_element = 470, displacements = 4710
+rank 11: num_my_element = 470, displacements = 5180
+rank 13: num_my_element = 470, displacements = 6120
+rank 14: num_my_element = 470, displacements = 6590
+rank 1: num_my_element = 471, displacements = 471
+rank 7: num_my_element = 471, displacements = 3297
+rank 9: num_my_element = 471, displacements = 4239
+actual number of elements:8000
+rank 0: num_my_element = 471, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0259834 seconds
+Input Size: 8000
+Process Number: 17
+Sorted.
+rank 2: num_my_element = 445, displacements = 890
+rank 13: num_my_element = 444, displacements = 5780
+rank 12: num_my_element = 444, displacements = 5336
+rank 6: num_my_element = 445, displacements = 2670
+rank 14: num_my_element = 444, displacements = 6224
+rank 16: num_my_element = 444, displacements = 7112
+rank 4: num_my_element = 445, displacements = 1780
+rank 7: num_my_element = 445, displacements = 3115
+rank 8: num_my_element = 444, displacements = 3560
+rank 10: num_my_element = 444, displacements = 4448
+rank 1: num_my_element = 445, displacements = 445
+rank 3: num_my_element = 445, displacements = 1335
+rank 15: num_my_element = 444, displacements = 6668
+rank 17: num_my_element = 444, displacements = 7556
+rank 11: num_my_element = 444, displacements = 4892
+rank 9: num_my_element = 444, displacements = 4004
+rank 5: num_my_element = 445, displacements = 2225
+actual number of elements:8000
+rank 0: num_my_element = 445, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0264337 seconds
+Input Size: 8000
+Process Number: 18
+Sorted.
+rank 10: num_my_element = 421, displacements = 4211
+rank 14: num_my_element = 421, displacements = 5895
+rank 15: num_my_element = 421, displacements = 6316
+rank 7: num_my_element = 421, displacements = 2948
+rank 12: num_my_element = 421, displacements = 5053
+rank 16: num_my_element = 421, displacements = 6737
+rank 17: num_my_element = 421, displacements = 7158
+rank 18: num_my_element = 421, displacements = 7579
+rank 4: num_my_element = 421, displacements = 1685
+rank 3: num_my_element = 421, displacements = 1264
+rank 8: num_my_element = 421, displacements = 3369
+rank 2: num_my_element = 421, displacements = 843
+rank 13: num_my_element = 421, displacements = 5474
+rank 5: num_my_element = 421, displacements = 2106
+rank 9: num_my_element = 421, displacements = 3790
+rank 11: num_my_element = 421, displacements = 4632
+rank 1: num_my_element = 421, displacements = 422
+rank 6: num_my_element = 421, displacements = 2527
+actual number of elements:8000
+rank 0: num_my_element = 422, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0282267 seconds
+Input Size: 8000
+Process Number: 19
+Sorted.
+rank 2: num_my_element = 400, displacements = 800
+rank 7: num_my_element = 400, displacements = 2800
+rank 8: num_my_element = 400, displacements = 3200
+rank 16: num_my_element = 400, displacements = 6400
+rank 1: num_my_element = 400, displacements = 400
+rank 3: num_my_element = 400, displacements = 1200
+rank 4: num_my_element = 400, displacements = 1600
+rank 5: num_my_element = 400, displacements = 2000
+rank 6: num_my_element = 400, displacements = 2400
+rank 9: num_my_element = 400, displacements = 3600
+rank 10: num_my_element = 400, displacements = 4000
+rank 11: num_my_element = 400, displacements = 4400
+rank 12: num_my_element = 400, displacements = 4800
+rank 13: num_my_element = 400, displacements = 5200
+rank 14: num_my_element = 400, displacements = 5600
+rank 15: num_my_element = 400, displacements = 6000
+rank 17: num_my_element = 400, displacements = 6800
+rank 18: num_my_element = 400, displacements = 7200
+rank 19: num_my_element = 400, displacements = 7600
+actual number of elements:8000
+rank 0: num_my_element = 400, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.023143 seconds
+Input Size: 8000
+Process Number: 20
+Sorted.
+rank 1: num_my_element = 5000, displacements = 5000
+actual number of elements:10000
+rank 0: num_my_element = 5000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0651235 seconds
+Input Size: 10000
+Process Number: 2
+Sorted.
+rank 2: num_my_element = 3333, displacements = 6667
+rank 1: num_my_element = 3333, displacements = 3334
+actual number of elements:10000
+rank 0: num_my_element = 3334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0530537 seconds
+Input Size: 10000
+Process Number: 3
+Sorted.
+rank 2: num_my_element = 2500, displacements = 5000
+rank 3: num_my_element = 2500, displacements = 7500
+rank 1: num_my_element = 2500, displacements = 2500
+actual number of elements:10000
+rank 0: num_my_element = 2500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0458906 seconds
+Input Size: 10000
+Process Number: 4
+Sorted.
+rank 2: num_my_element = 2000, displacements = 4000
+rank 1: num_my_element = 2000, displacements = 2000
+rank 3: num_my_element = 2000, displacements = 6000
+rank 4: num_my_element = 2000, displacements = 8000
+actual number of elements:10000
+rank 0: num_my_element = 2000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.040128 seconds
+Input Size: 10000
+Process Number: 5
+Sorted.
+rank 3: num_my_element = 1667, displacements = 5001
+rank 5: num_my_element = 1666, displacements = 8334
+rank 4: num_my_element = 1666, displacements = 6668
+rank 1: num_my_element = 1667, displacements = 1667
+rank 2: num_my_element = 1667, displacements = 3334
+actual number of elements:10000
+rank 0: num_my_element = 1667, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0352157 seconds
+Input Size: 10000
+Process Number: 6
+Sorted.
+rank 5: num_my_element = 1428, displacements = 7144
+rank 6: num_my_element = 1428, displacements = 8572
+rank 4: num_my_element = 1428, displacements = 5716
+rank 3: num_my_element = 1429, displacements = 4287
+rank 1: num_my_element = 1429, displacements = 1429
+rank 2: num_my_element = 1429, displacements = 2858
+actual number of elements:10000
+rank 0: num_my_element = 1429, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0354695 seconds
+Input Size: 10000
+Process Number: 7
+Sorted.
+rank 2: num_my_element = 1250, displacements = 2500
+rank 4: num_my_element = 1250, displacements = 5000
+rank 5: num_my_element = 1250, displacements = 6250
+rank 3: num_my_element = 1250, displacements = 3750
+rank 7: num_my_element = 1250, displacements = 8750
+rank 1: num_my_element = 1250, displacements = 1250
+rank 6: num_my_element = 1250, displacements = 7500
+actual number of elements:10000
+rank 0: num_my_element = 1250, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0327798 seconds
+Input Size: 10000
+Process Number: 8
+Sorted.
+rank 5: num_my_element = 1111, displacements = 5556
+rank 2: num_my_element = 1111, displacements = 2223
+rank 1: num_my_element = 1111, displacements = 1112
+rank 4: num_my_element = 1111, displacements = 4445
+rank 3: num_my_element = 1111, displacements = 3334
+rank 6: num_my_element = 1111, displacements = 6667
+rank 7: num_my_element = 1111, displacements = 7778
+rank 8: num_my_element = 1111, displacements = 8889
+actual number of elements:10000
+rank 0: num_my_element = 1112, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0348021 seconds
+Input Size: 10000
+Process Number: 9
+Sorted.
+rank 5: num_my_element = 1000, displacements = 5000
+rank 6: num_my_element = 1000, displacements = 6000
+rank 8: num_my_element = 1000, displacements = 8000
+rank 2: num_my_element = 1000, displacements = 2000
+rank 1: num_my_element = 1000, displacements = 1000
+rank 3: num_my_element = 1000, displacements = 3000
+rank 4: num_my_element = 1000, displacements = 4000
+rank 7: num_my_element = 1000, displacements = 7000
+rank 9: num_my_element = 1000, displacements = 9000
+actual number of elements:10000
+rank 0: num_my_element = 1000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0419894 seconds
+Input Size: 10000
+Process Number: 10
+Sorted.
+rank 6: num_my_element = 909, displacements = 5455
+rank 7: num_my_element = 909, displacements = 6364
+rank 5: num_my_element = 909, displacements = 4546
+rank 3: num_my_element = 909, displacements = 2728
+rank 8: num_my_element = 909, displacements = 7273
+rank 4: num_my_element = 909, displacements = 3637
+rank 10: num_my_element = 909, displacements = 9091
+rank 2: num_my_element = 909, displacements = 1819
+rank 1: num_my_element = 909, displacements = 910
+rank 9: num_my_element = 909, displacements = 8182
+actual number of elements:10000
+rank 0: num_my_element = 910, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0367439 seconds
+Input Size: 10000
+Process Number: 11
+Sorted.
+rank 11: num_my_element = 833, displacements = 9167
+rank 10: num_my_element = 833, displacements = 8334
+rank 8: num_my_element = 833, displacements = 6668
+rank 7: num_my_element = 833, displacements = 5835
+rank 9: num_my_element = 833, displacements = 7501
+rank 4: num_my_element = 833, displacements = 3336
+rank 5: num_my_element = 833, displacements = 4169
+rank 6: num_my_element = 833, displacements = 5002
+rank 1: num_my_element = 834, displacements = 834
+rank 3: num_my_element = 834, displacements = 2502
+actual number of elements:rank 2: num_my_element = 834, displacements = 1668
+10000
+rank 0: num_my_element = 834, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0369259 seconds
+Input Size: 10000
+Process Number: 12
+Sorted.
+rank 12: num_my_element = 769, displacements = 9231
+rank 5: num_my_element = 769, displacements = 3848
+rank 7: num_my_element = 769, displacements = 5386
+rank 10: num_my_element = 769, displacements = 7693
+rank 8: num_my_element = 769, displacements = 6155
+rank 3: num_my_element = 769, displacements = 2310
+rank 11: num_my_element = 769, displacements = 8462
+rank 1: num_my_element = 770, displacements = 770
+rank 6: num_my_element = 769, displacements = 4617
+rank 2: num_my_element = 770, displacements = 1540
+rank 4: num_my_element = 769, displacements = 3079
+rank 9: num_my_element = 769, displacements = 6924
+actual number of elements:10000
+rank 0: num_my_element = 770, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0384268 seconds
+Input Size: 10000
+Process Number: 13
+Sorted.
+rank 7: num_my_element = 714, displacements = 5002
+rank 11: num_my_element = 714, displacements = 7858
+rank 4: num_my_element = 714, displacements = 2860
+rank 9: num_my_element = 714, displacements = 6430
+rank 13: num_my_element = 714, displacements = 9286
+rank 12: num_my_element = 714, displacements = 8572
+rank 5: num_my_element = 714, displacements = 3574
+rank 6: num_my_element = 714, displacements = 4288
+rank 8: num_my_element = 714, displacements = 5716
+rank 1: num_my_element = 715, displacements = 715
+rank 10: num_my_element = 714, displacements = 7144
+rank 2: num_my_element = 715, displacements = 1430
+rank 3: num_my_element = 715, displacements = 2145
+actual number of elements:10000
+rank 0: num_my_element = 715, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0393718 seconds
+Input Size: 10000
+Process Number: 14
+Sorted.
+rank 4: num_my_element = 667, displacements = 2668
+rank 11: num_my_element = 666, displacements = 7336
+rank 13: num_my_element = 666, displacements = 8668
+rank 3: num_my_element = 667, displacements = 2001
+rank 10: num_my_element = 666, displacements = 6670
+rank 14: num_my_element = 666, displacements = 9334
+rank 6: num_my_element = 667, displacements = 4002
+rank 12: num_my_element = 666, displacements = 8002
+rank 7: num_my_element = 667, displacements = 4669
+rank 1: num_my_element = 667, displacements = 667
+rank 5: num_my_element = 667, displacements = 3335
+rank 2: num_my_element = 667, displacements = 1334
+rank 9: num_my_element = 667, displacements = 6003
+rank 8: num_my_element = 667, displacements = 5336
+actual number of elements:10000
+rank 0: num_my_element = 667, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0359798 seconds
+Input Size: 10000
+Process Number: 15
+Sorted.
+rank 4: num_my_element = 625, displacements = 2500
+rank 14: num_my_element = 625, displacements = 8750
+rank 7: num_my_element = 625, displacements = 4375
+rank 11: num_my_element = 625, displacements = 6875
+rank 15: num_my_element = 625, displacements = 9375
+rank 10: num_my_element = 625, displacements = 6250
+rank 13: num_my_element = 625, displacements = 8125
+rank 12: num_my_element = 625, displacements = 7500
+rank 9: num_my_element = 625, displacements = 5625
+rank 8: num_my_element = 625, displacements = 5000
+rank 5: num_my_element = 625, displacements = 3125
+rank 1: num_my_element = 625, displacements = 625
+rank 2: num_my_element = 625, displacements = 1250
+rank 3: num_my_element = 625, displacements = 1875
+rank 6: num_my_element = 625, displacements = 3750
+actual number of elements:10000
+rank 0: num_my_element = 625, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0354602 seconds
+Input Size: 10000
+Process Number: 16
+Sorted.
+rank 4: num_my_element = 588, displacements = 2356
+rank 16: num_my_element = 588, displacements = 9412
+rank 11: num_my_element = 588, displacements = 6472
+rank 10: num_my_element = 588, displacements = 5884
+rank 14: num_my_element = 588, displacements = 8236
+rank 2: num_my_element = 589, displacements = 1178
+rank 9: num_my_element = 588, displacements = 5296
+rank 12: num_my_element = 588, displacements = 7060
+rank 3: num_my_element = 589, displacements = 1767
+rank 5: num_my_element = 588, displacements = 2944
+rank 6: num_my_element = 588, displacements = 3532
+rank 7: num_my_element = 588, displacements = 4120
+rank 8: num_my_element = 588, displacements = 4708
+rank 13: num_my_element = 588, displacements = 7648
+rank 1: num_my_element = 589, displacements = 589
+rank 15: num_my_element = 588, displacements = 8824
+actual number of elements:10000
+rank 0: num_my_element = 589, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.032595 seconds
+Input Size: 10000
+Process Number: 17
+Sorted.
+rank 3: num_my_element = 556, displacements = 1668
+rank 6: num_my_element = 556, displacements = 3336
+rank 1: num_my_element = 556, displacements = 556
+rank 7: num_my_element = 556, displacements = 3892
+rank 10: num_my_element = 555, displacements = 5560
+rank 11: num_my_element = 555, displacements = 6115
+rank 15: num_my_element = 555, displacements = 8335
+rank 16: num_my_element = 555, displacements = 8890
+rank 2: num_my_element = 556, displacements = 1112
+rank 4: num_my_element = 556, displacements = 2224
+rank 5: num_my_element = 556, displacements = 2780
+rank 8: num_my_element = 556, displacements = 4448
+rank 9: num_my_element = 556, displacements = 5004
+rank 12: num_my_element = 555, displacements = 6670
+rank 13: num_my_element = 555, displacements = 7225
+rank 14: num_my_element = 555, displacements = 7780
+rank 17: num_my_element = 555, displacements = 9445
+actual number of elements:10000
+rank 0: num_my_element = 556, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0329628 seconds
+Input Size: 10000
+Process Number: 18
+Sorted.
+rank 14: num_my_element = 526, displacements = 7370
+rank 2: num_my_element = 527, displacements = 1054
+rank 15: num_my_element = 526, displacements = 7896
+rank 4: num_my_element = 527, displacements = 2108
+rank 10: num_my_element = 526, displacements = 5266
+rank 12: num_my_element = 526, displacements = 6318
+rank 16: num_my_element = 526, displacements = 8422
+rank 17: num_my_element = 526, displacements = 8948
+rank 13: num_my_element = 526, displacements = 6844
+rank 8: num_my_element = 526, displacements = 4214
+rank 5: num_my_element = 527, displacements = 2635
+rank 9: num_my_element = 526, displacements = 4740
+rank 6: num_my_element = 526, displacements = 3162
+rank 11: num_my_element = 526, displacements = 5792
+rank 3: num_my_element = 527, displacements = 1581
+rank 1: num_my_element = 527, displacements = 527
+rank 7: num_my_element = 526, displacements = 3688
+rank 18: num_my_element = 526, displacements = 9474
+actual number of elements:10000
+rank 0: num_my_element = 527, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0283245 seconds
+Input Size: 10000
+Process Number: 19
+Sorted.
+rank 1: num_my_element = 500, displacements = 500
+rank 19: num_my_element = 500, displacements = 9500
+rank 10: num_my_element = 500, displacements = 5000
+rank 17: num_my_element = 500, displacements = 8500
+rank 16: num_my_element = 500, displacements = 8000
+rank 2: num_my_element = 500, displacements = 1000
+rank 3: num_my_element = 500, displacements = 1500
+rank 5: num_my_element = 500, displacements = 2500
+rank 7: num_my_element = 500, displacements = 3500
+rank 8: num_my_element = 500, displacements = 4000
+rank 12: num_my_element = 500, displacements = 6000
+rank 14: num_my_element = 500, displacements = 7000
+rank 15: num_my_element = 500, displacements = 7500
+rank 4: num_my_element = 500, displacements = 2000
+rank 6: num_my_element = 500, displacements = 3000
+rank 11: num_my_element = 500, displacements = 5500
+rank 13: num_my_element = 500, displacements = 6500
+rank 18: num_my_element = 500, displacements = 9000
+rank 9: num_my_element = 500, displacements = 4500
+actual number of elements:10000
+rank 0: num_my_element = 500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.033439 seconds
+Input Size: 10000
+Process Number: 20
+Sorted.
+rank 1: num_my_element = 10000, displacements = 10000
+actual number of elements:0
+rank 0: num_my_element = 10000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.120746 seconds
+Input Size: 20000
+Process Number: 2
+Sorted.
+actual number of elements:0
+rank 0: num_my_element = 6667, displacements = 0
+rank 2: num_my_element = 6666, displacements = 13334
+rank 1: num_my_element = 6667, displacements = 6667
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0916456 seconds
+Input Size: 20000
+Process Number: 3
+Sorted.
+actual number of elements:0
+rank 0: num_my_element = 5000, displacements = 0
+rank 2: num_my_element = 5000, displacements = 10000
+rank 3: num_my_element = 5000, displacements = 15000
+rank 1: num_my_element = 5000, displacements = 5000
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0868505 seconds
+Input Size: 20000
+Process Number: 4
+Sorted.
+rank 2: num_my_element = 4000, displacements = 8000
+rank 1: num_my_element = 4000, displacements = 4000
+rank 3: num_my_element = 4000, displacements = 12000
+rank 4: num_my_element = 4000, displacements = 16000
+actual number of elements:0
+rank 0: num_my_element = 4000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0600871 seconds
+Input Size: 20000
+Process Number: 5
+Sorted.
+rank 3: num_my_element = 3333, displacements = 10001
+rank 1: num_my_element = 3334, displacements = 3334
+rank 5: num_my_element = 3333, displacements = 16667
+actual number of elements:0
+rank 0: num_my_element = 3334, displacements = 0
+rank 2: num_my_element = 3333, displacements = 6668
+rank 4: num_my_element = 3333, displacements = 13334
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0758966 seconds
+Input Size: 20000
+Process Number: 6
+Sorted.
+rank 3: num_my_element = 2857, displacements = 8572
+rank 5: num_my_element = 2857, displacements = 14286
+rank 1: num_my_element = 2857, displacements = 2858
+rank 6: num_my_element = 2857, displacements = 17143
+rank 4: num_my_element = 2857, displacements = 11429
+rank 2: num_my_element = 2857, displacements = 5715
+actual number of elements:0
+rank 0: num_my_element = 2858, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0751557 seconds
+Input Size: 20000
+Process Number: 7
+Sorted.
+rank 5: num_my_element = 2500, displacements = 12500
+rank 3: num_my_element = 2500, displacements = 7500
+rank 4: num_my_element = 2500, displacements = 10000
+rank 6: num_my_element = 2500, displacements = 15000
+rank 1: num_my_element = 2500, displacements = 2500
+rank 2: num_my_element = 2500, displacements = 5000
+rank 7: num_my_element = 2500, displacements = 17500
+actual number of elements:0
+rank 0: num_my_element = 2500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0713426 seconds
+Input Size: 20000
+Process Number: 8
+Sorted.
+actual number of elements:0
+rank 0: num_my_element = 2223, displacements = 0
+rank 4: num_my_element = 2222, displacements = 8890
+rank 7: num_my_element = 2222, displacements = 15556
+rank 1: num_my_element = 2223, displacements = 2223
+rank 3: num_my_element = 2222, displacements = 6668
+rank 5: num_my_element = 2222, displacements = 11112
+rank 6: num_my_element = 2222, displacements = 13334
+rank 8: num_my_element = 2222, displacements = 17778
+rank 2: num_my_element = 2222, displacements = 4446
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0669362 seconds
+Input Size: 20000
+Process Number: 9
+Sorted.
+rank 6: num_my_element = 2000, displacements = 12000
+rank 2: num_my_element = 2000, displacements = 4000
+rank 3: num_my_element = 2000, displacements = 6000
+rank 8: num_my_element = 2000, displacements = 16000
+rank 9: num_my_element = 2000, displacements = 18000
+rank 7: num_my_element = 2000, displacements = 14000
+rank 4: num_my_element = 2000, displacements = 8000
+rank 5: num_my_element = 2000, displacements = 10000
+actual number of elements:rank 1: num_my_element = 2000, displacements = 2000
+0
+rank 0: num_my_element = 2000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.059817 seconds
+Input Size: 20000
+Process Number: 10
+Sorted.
+rank 8: num_my_element = 1818, displacements = 14546
+rank 7: num_my_element = 1818, displacements = 12728
+rank 9: num_my_element = 1818, displacements = 16364
+actual number of elements:0
+rank 0: num_my_element = 1819, displacements = 0
+rank 4: num_my_element = 1818, displacements = 7274
+rank 10: num_my_element = 1818, displacements = 18182
+rank 1: num_my_element = 1819, displacements = 1819
+rank 5: num_my_element = 1818, displacements = 9092
+rank 6: num_my_element = 1818, displacements = 10910
+rank 2: num_my_element = 1818, displacements = 3638
+rank 3: num_my_element = 1818, displacements = 5456
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0554397 seconds
+Input Size: 20000
+Process Number: 11
+Sorted.
+rank 9: num_my_element = 1666, displacements = 15002
+rank 11: num_my_element = 1666, displacements = 18334
+rank 5: num_my_element = 1667, displacements = 8335
+rank 2: num_my_element = 1667, displacements = 3334
+rank 7: num_my_element = 1667, displacements = 11669
+rank 3: num_my_element = 1667, displacements = 5001
+rank 6: num_my_element = 1667, displacements = 10002
+rank 10: num_my_element = 1666, displacements = 16668
+rank 1: num_my_element = 1667, displacements = 1667
+rank 4: num_my_element = 1667, displacements = 6668
+rank 8: num_my_element = 1666, displacements = 13336
+actual number of elements:0
+rank 0: num_my_element = 1667, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0649912 seconds
+Input Size: 20000
+Process Number: 12
+Sorted.
+rank 9: num_my_element = 1538, displacements = 13848
+rank 11: num_my_element = 1538, displacements = 16924
+actual number of elements:0
+rank 0: num_my_element = 1539, displacements = 0
+rank 6: num_my_element = 1538, displacements = 9234
+rank 10: num_my_element = 1538, displacements = 15386
+rank 7: num_my_element = 1538, displacements = 10772
+rank 8: num_my_element = 1538, displacements = 12310
+rank 4: num_my_element = 1539, displacements = 6156
+rank 12: num_my_element = 1538, displacements = 18462
+rank 1: num_my_element = 1539, displacements = 1539
+rank 2: num_my_element = 1539, displacements = 3078
+rank 3: num_my_element = 1539, displacements = 4617
+rank 5: num_my_element = 1539, displacements = 7695
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0556398 seconds
+Input Size: 20000
+Process Number: 13
+Sorted.
+rank 9: num_my_element = 1428, displacements = 12860
+rank 10: num_my_element = 1428, displacements = 14288
+rank 12: num_my_element = 1428, displacements = 17144
+rank 1: num_my_element = 1429, displacements = 1429
+rank 13: num_my_element = 1428, displacements = 18572
+actual number of elements:0
+rank 0: num_my_element = 1429, displacements = 0
+rank 11: num_my_element = 1428, displacements = 15716
+rank 8: num_my_element = 1428, displacements = 11432
+rank 5: num_my_element = 1429, displacements = 7145
+rank 7: num_my_element = 1429, displacements = 10003
+rank 2: num_my_element = 1429, displacements = 2858
+rank 3: num_my_element = 1429, displacements = 4287
+rank 4: num_my_element = 1429, displacements = 5716
+rank 6: num_my_element = 1429, displacements = 8574
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0621727 seconds
+Input Size: 20000
+Process Number: 14
+Sorted.
+actual number of elements:0
+rank 0: num_my_element = 1334, displacements = 0
+rank 2: num_my_element = 1334, displacements = 2668
+rank 4: num_my_element = 1334, displacements = 5336
+rank 10: num_my_element = 1333, displacements = 13335
+rank 3: num_my_element = 1334, displacements = 4002
+rank 6: num_my_element = 1333, displacements = 8003
+rank 7: num_my_element = 1333, displacements = 9336
+rank 8: num_my_element = 1333, displacements = 10669
+rank 9: num_my_element = 1333, displacements = 12002
+rank 14: num_my_element = 1333, displacements = 18667
+rank 1: num_my_element = 1334, displacements = 1334
+rank 5: num_my_element = 1333, displacements = 6670
+rank 11: num_my_element = 1333, displacements = 14668
+rank 13: num_my_element = 1333, displacements = 17334
+rank 12: num_my_element = 1333, displacements = 16001
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.064386 seconds
+Input Size: 20000
+Process Number: 15
+Sorted.
+rank 4: num_my_element = 1250, displacements = 5000
+actual number of elements:0
+rank 5: num_my_element = 1250, displacements = 6250
+rank 0: num_my_element = 1250, displacements = 0
+rank 7: num_my_element = 1250, displacements = 8750
+rank 10: num_my_element = 1250, displacements = 12500
+rank 8: num_my_element = 1250, displacements = 10000
+rank 15: num_my_element = 1250, displacements = 18750
+rank 12: num_my_element = 1250, displacements = 15000
+rank 9: num_my_element = 1250, displacements = 11250
+rank 13: num_my_element = 1250, displacements = 16250
+rank 3: num_my_element = 1250, displacements = 3750
+rank 6: num_my_element = 1250, displacements = 7500
+rank 11: num_my_element = 1250, displacements = 13750
+rank 14: num_my_element = 1250, displacements = 17500
+rank 1: num_my_element = 1250, displacements = 1250
+rank 2: num_my_element = 1250, displacements = 2500
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0622616 seconds
+Input Size: 20000
+Process Number: 16
+Sorted.
+rank 2: num_my_element = 1177, displacements = 2354
+rank 5: num_my_element = 1177, displacements = 5885
+rank 11: num_my_element = 1176, displacements = 12944
+rank 14: num_my_element = 1176, displacements = 16472
+rank 10: num_my_element = 1176, displacements = 11768
+rank 8: num_my_element = 1176, displacements = 9416
+rank 9: num_my_element = 1176, displacements = 10592
+rank 13: num_my_element = 1176, displacements = 15296
+rank 15: num_my_element = 1176, displacements = 17648
+rank 6: num_my_element = 1177, displacements = 7062
+rank 7: num_my_element = 1177, displacements = 8239
+rank 12: num_my_element = 1176, displacements = 14120
+rank 16: num_my_element = 1176, displacements = 18824
+rank 1: num_my_element = 1177, displacements = 1177
+rank 4: num_my_element = 1177, displacements = 4708
+rank 3: num_my_element = 1177, displacements = 3531
+actual number of elements:0
+rank 0: num_my_element = 1177, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0605008 seconds
+Input Size: 20000
+Process Number: 17
+Sorted.
+rank 16: num_my_element = 1111, displacements = 17778
+rank 1: num_my_element = 1112, displacements = 1112
+rank 2: num_my_element = 1111, displacements = 2224
+rank 13: num_my_element = 1111, displacements = 14445
+rank 14: num_my_element = 1111, displacements = 15556
+rank 7: num_my_element = 1111, displacements = 7779
+rank 3: num_my_element = 1111, displacements = 3335
+rank 12: num_my_element = 1111, displacements = 13334
+rank 6: num_my_element = 1111, displacements = 6668
+rank 8: num_my_element = 1111, displacements = 8890
+rank 9: num_my_element = 1111, displacements = 10001
+rank 10: num_my_element = 1111, displacements = 11112
+rank 4: num_my_element = 1111, displacements = 4446
+rank 5: num_my_element = 1111, displacements = 5557
+rank 11: num_my_element = 1111, displacements = 12223
+rank 17: num_my_element = 1111, displacements = 18889
+actual number of elements:0
+rank 0: num_my_element = 1112, displacements = 0
+rank 15: num_my_element = 1111, displacements = 16667
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0538458 seconds
+Input Size: 20000
+Process Number: 18
+Sorted.
+rank 3: num_my_element = 1053, displacements = 3159
+rank 2: num_my_element = 1053, displacements = 2106
+rank 17: num_my_element = 1052, displacements = 17896
+rank 13: num_my_element = 1052, displacements = 13688
+rank 7: num_my_element = 1053, displacements = 7371
+rank 10: num_my_element = 1053, displacements = 10530
+rank 11: num_my_element = 1053, displacements = 11583
+rank 18: num_my_element = 1052, displacements = 18948
+rank 6: num_my_element = 1053, displacements = 6318
+rank 15: num_my_element = 1052, displacements = 15792
+rank 16: num_my_element = 1052, displacements = 16844
+rank 1: num_my_element = 1053, displacements = 1053
+rank 4: num_my_element = 1053, displacements = 4212
+rank 8: num_my_element = 1053, displacements = 8424
+rank 9: num_my_element = 1053, displacements = 9477
+rank 12: num_my_element = 1052, displacements = 12636
+rank 14: num_my_element = 1052, displacements = 14740
+rank 5: num_my_element = 1053, displacements = 5265
+actual number of elements:0
+rank 0: num_my_element = 1053, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0632221 seconds
+Input Size: 20000
+Process Number: 19
+Sorted.
+rank 19: num_my_element = 1000, displacements = 19000
+rank 12: num_my_element = 1000, displacements = 12000
+rank 10: num_my_element = 1000, displacements = 10000
+rank 17: num_my_element = 1000, displacements = 17000
+rank 13: num_my_element = 1000, displacements = 13000
+actual number of elements:0
+rank 0: num_my_element = 1000, displacements = 0
+rank 8: num_my_element = 1000, displacements = 8000
+rank 11: num_my_element = 1000, displacements = 11000
+rank 16: num_my_element = 1000, displacements = 16000
+rank 1: num_my_element = 1000, displacements = 1000
+rank 4: num_my_element = 1000, displacements = 4000
+rank 5: num_my_element = 1000, displacements = 5000
+rank 7: num_my_element = 1000, displacements = 7000
+rank 9: num_my_element = 1000, displacements = 9000
+rank 15: num_my_element = 1000, displacements = 15000
+rank 3: num_my_element = 1000, displacements = 3000
+rank 2: num_my_element = 1000, displacements = 2000
+rank 18: num_my_element = 1000, displacements = 18000
+rank 6: num_my_element = 1000, displacements = 6000
+rank 14: num_my_element = 1000, displacements = 14000
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.0536472 seconds
+Input Size: 20000
+Process Number: 20
+Sorted.
+rank 1: num_my_element = 25000, displacements = 25000
+actual number of elements:50000
+rank 0: num_my_element = 25000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.57899 seconds
+Input Size: 50000
+Process Number: 2
+Sorted.
+rank 2: num_my_element = 16666, displacements = 33334
+rank 1: num_my_element = 16667, displacements = 16667
+actual number of elements:50000
+rank 0: num_my_element = 16667, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.19404 seconds
+Input Size: 50000
+Process Number: 3
+Sorted.
+rank 3: num_my_element = 12500, displacements = 37500
+rank 2: num_my_element = 12500, displacements = 25000
+rank 1: num_my_element = 12500, displacements = 12500
+actual number of elements:50000
+rank 0: num_my_element = 12500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.867713 seconds
+Input Size: 50000
+Process Number: 4
+Sorted.
+rank 1: num_my_element = 10000, displacements = 10000
+rank 3: num_my_element = 10000, displacements = 30000
+rank 4: num_my_element = 10000, displacements = 40000
+rank 2: num_my_element = 10000, displacements = 20000
+actual number of elements:50000
+rank 0: num_my_element = 10000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.704517 seconds
+Input Size: 50000
+Process Number: 5
+Sorted.
+rank 1: num_my_element = 8334, displacements = 8334
+rank 4: num_my_element = 8333, displacements = 33334
+rank 3: num_my_element = 8333, displacements = 25001
+rank 5: num_my_element = 8333, displacements = 41667
+rank 2: num_my_element = 8333, displacements = 16668
+actual number of elements:50000
+rank 0: num_my_element = 8334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.618794 seconds
+Input Size: 50000
+Process Number: 6
+Sorted.
+rank 3: num_my_element = 7143, displacements = 21429
+rank 5: num_my_element = 7143, displacements = 35715
+rank 6: num_my_element = 7142, displacements = 42858
+rank 2: num_my_element = 7143, displacements = 14286
+rank 4: num_my_element = 7143, displacements = 28572
+rank 1: num_my_element = 7143, displacements = 7143
+actual number of elements:50000
+rank 0: num_my_element = 7143, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.857341 seconds
+Input Size: 50000
+Process Number: 7
+Sorted.
+rank 2: num_my_element = 6250, displacements = 12500
+rank 3: num_my_element = 6250, displacements = 18750
+rank 4: num_my_element = 6250, displacements = 25000
+rank 6: num_my_element = 6250, displacements = 37500
+rank 5: num_my_element = 6250, displacements = 31250
+rank 1: num_my_element = 6250, displacements = 6250
+rank 7: num_my_element = 6250, displacements = 43750
+actual number of elements:50000
+rank 0: num_my_element = 6250, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.480037 seconds
+Input Size: 50000
+Process Number: 8
+Sorted.
+rank 2: num_my_element = 5556, displacements = 11112
+rank 5: num_my_element = 5555, displacements = 27780
+rank 3: num_my_element = 5556, displacements = 16668
+rank 4: num_my_element = 5556, displacements = 22224
+rank 8: num_my_element = 5555, displacements = 44445
+rank 6: num_my_element = 5555, displacements = 33335
+rank 7: num_my_element = 5555, displacements = 38890
+rank 1: num_my_element = 5556, displacements = 5556
+actual number of elements:50000
+rank 0: num_my_element = 5556, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.45672 seconds
+Input Size: 50000
+Process Number: 9
+Sorted.
+rank 9: num_my_element = 5000, displacements = 45000
+rank 3: num_my_element = 5000, displacements = 15000
+rank 5: num_my_element = 5000, displacements = 25000
+rank 1: num_my_element = 5000, displacements = 5000
+rank 7: num_my_element = 5000, displacements = 35000
+rank 6: num_my_element = 5000, displacements = 30000
+rank 8: num_my_element = 5000, displacements = 40000
+rank 4: num_my_element = 5000, displacements = 20000
+rank 2: num_my_element = 5000, displacements = 10000
+actual number of elements:50000
+rank 0: num_my_element = 5000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.377701 seconds
+Input Size: 50000
+Process Number: 10
+Sorted.
+rank 2: num_my_element = 4546, displacements = 9092
+rank 1: num_my_element = 4546, displacements = 4546
+rank 3: num_my_element = 4546, displacements = 13638
+rank 5: num_my_element = 4545, displacements = 22730
+rank 8: num_my_element = 4545, displacements = 36365
+rank 10: num_my_element = 4545, displacements = 45455
+rank 4: num_my_element = 4546, displacements = 18184
+rank 6: num_my_element = 4545, displacements = 27275
+rank 7: num_my_element = 4545, displacements = 31820
+rank 9: num_my_element = 4545, displacements = 40910
+actual number of elements:50000
+rank 0: num_my_element = 4546, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.548496 seconds
+Input Size: 50000
+Process Number: 11
+Sorted.
+rank 11: num_my_element = 4166, displacements = 45834
+rank 4: num_my_element = 4167, displacements = 16668
+rank 9: num_my_element = 4166, displacements = 37502
+rank 1: num_my_element = 4167, displacements = 4167
+rank 2: num_my_element = 4167, displacements = 8334
+rank 3: num_my_element = 4167, displacements = 12501
+rank 8: num_my_element = 4166, displacements = 33336
+rank 5: num_my_element = 4167, displacements = 20835
+rank 7: num_my_element = 4167, displacements = 29169
+rank 6: num_my_element = 4167, displacements = 25002
+rank 10: num_my_element = 4166, displacements = 41668
+actual number of elements:50000
+rank 0: num_my_element = 4167, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.470715 seconds
+Input Size: 50000
+Process Number: 12
+Sorted.
+rank 6: num_my_element = 3846, displacements = 23078
+rank 3: num_my_element = 3846, displacements = 11540
+rank 4: num_my_element = 3846, displacements = 15386
+rank 11: num_my_element = 3846, displacements = 42308
+rank 10: num_my_element = 3846, displacements = 38462
+rank 5: num_my_element = 3846, displacements = 19232
+rank 8: num_my_element = 3846, displacements = 30770
+rank 12: num_my_element = 3846, displacements = 46154
+rank 1: num_my_element = 3847, displacements = 3847
+rank 7: num_my_element = 3846, displacements = 26924
+rank 9: num_my_element = 3846, displacements = 34616
+rank 2: num_my_element = 3846, displacements = 7694
+actual number of elements:50000
+rank 0: num_my_element = 3847, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.47306 seconds
+Input Size: 50000
+Process Number: 13
+Sorted.
+rank 13: num_my_element = 3571, displacements = 46429
+rank 11: num_my_element = 3571, displacements = 39287
+rank 8: num_my_element = 3571, displacements = 28574
+rank 6: num_my_element = 3571, displacements = 21432
+rank 9: num_my_element = 3571, displacements = 32145
+rank 2: num_my_element = 3572, displacements = 7144
+rank 5: num_my_element = 3572, displacements = 17860
+rank 12: num_my_element = 3571, displacements = 42858
+rank 4: num_my_element = 3572, displacements = 14288
+rank 3: num_my_element = 3572, displacements = 10716
+rank 10: num_my_element = 3571, displacements = 35716
+rank 7: num_my_element = 3571, displacements = 25003
+rank 1: num_my_element = 3572, displacements = 3572
+actual number of elements:50000
+rank 0: num_my_element = 3572, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.464769 seconds
+Input Size: 50000
+Process Number: 14
+Sorted.
+rank 5: num_my_element = 3333, displacements = 16670
+rank 1: num_my_element = 3334, displacements = 3334
+rank 10: num_my_element = 3333, displacements = 33335
+rank 14: num_my_element = 3333, displacements = 46667
+rank 12: num_my_element = 3333, displacements = 40001
+rank 11: num_my_element = 3333, displacements = 36668
+rank 7: num_my_element = 3333, displacements = 23336
+rank 2: num_my_element = 3334, displacements = 6668
+rank 3: num_my_element = 3334, displacements = 10002
+rank 4: num_my_element = 3334, displacements = 13336
+rank 6: num_my_element = 3333, displacements = 20003
+rank 8: num_my_element = 3333, displacements = 26669
+rank 9: num_my_element = 3333, displacements = 30002
+rank 13: num_my_element = 3333, displacements = 43334
+actual number of elements:50000
+rank 0: num_my_element = 3334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.439175 seconds
+Input Size: 50000
+Process Number: 15
+Sorted.
+rank 10: num_my_element = 3125, displacements = 31250
+rank 6: num_my_element = 3125, displacements = 18750
+rank 12: num_my_element = 3125, displacements = 37500
+rank 5: num_my_element = 3125, displacements = 15625
+rank 9: num_my_element = 3125, displacements = 28125
+rank 11: num_my_element = 3125, displacements = 34375
+rank 14: num_my_element = 3125, displacements = 43750
+rank 13: num_my_element = 3125, displacements = 40625
+rank 15: num_my_element = 3125, displacements = 46875
+rank 1: num_my_element = 3125, displacements = 3125
+rank 4: num_my_element = 3125, displacements = 12500
+rank 8: num_my_element = 3125, displacements = 25000
+rank 2: num_my_element = 3125, displacements = 6250
+rank 3: num_my_element = 3125, displacements = 9375
+rank 7: num_my_element = 3125, displacements = 21875
+actual number of elements:50000
+rank 0: num_my_element = 3125, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.411779 seconds
+Input Size: 50000
+Process Number: 16
+Sorted.
+rank 5: num_my_element = 2941, displacements = 14708
+rank 16: num_my_element = 2941, displacements = 47059
+rank 10: num_my_element = 2941, displacements = 29413
+rank 3: num_my_element = 2941, displacements = 8826
+rank 11: num_my_element = 2941, displacements = 32354
+rank 12: num_my_element = 2941, displacements = 35295
+rank 2: num_my_element = 2942, displacements = 5884
+rank 4: num_my_element = 2941, displacements = 11767
+rank 6: num_my_element = 2941, displacements = 17649
+rank 7: num_my_element = 2941, displacements = 20590
+rank 8: num_my_element = 2941, displacements = 23531
+rank 13: num_my_element = 2941, displacements = 38236
+rank 14: num_my_element = 2941, displacements = 41177
+rank 15: num_my_element = 2941, displacements = 44118
+rank 9: num_my_element = 2941, displacements = 26472
+rank 1: num_my_element = 2942, displacements = 2942
+actual number of elements:50000
+rank 0: num_my_element = 2942, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.376609 seconds
+Input Size: 50000
+Process Number: 17
+Sorted.
+rank 11: num_my_element = 2778, displacements = 30558
+rank 9: num_my_element = 2778, displacements = 25002
+rank 7: num_my_element = 2778, displacements = 19446
+rank 16: num_my_element = 2777, displacements = 44446
+rank 1: num_my_element = 2778, displacements = 2778
+rank 4: num_my_element = 2778, displacements = 11112
+rank 5: num_my_element = 2778, displacements = 13890
+rank 6: num_my_element = 2778, displacements = 16668
+rank 8: num_my_element = 2778, displacements = 22224
+rank 10: num_my_element = 2778, displacements = 27780
+rank 12: num_my_element = 2778, displacements = 33336
+rank 13: num_my_element = 2778, displacements = 36114
+rank 15: num_my_element = 2777, displacements = 41669
+rank 17: num_my_element = 2777, displacements = 47223
+rank 2: num_my_element = 2778, displacements = 5556
+rank 3: num_my_element = 2778, displacements = 8334
+rank 14: num_my_element = 2777, displacements = 38892
+actual number of elements:50000
+rank 0: num_my_element = 2778, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.363893 seconds
+Input Size: 50000
+Process Number: 18
+Sorted.
+rank 9: num_my_element = 2632, displacements = 23688
+rank 14: num_my_element = 2631, displacements = 36845
+rank 8: num_my_element = 2632, displacements = 21056
+rank 16: num_my_element = 2631, displacements = 42107
+rank 13: num_my_element = 2631, displacements = 34214
+rank 18: num_my_element = 2631, displacements = 47369
+rank 11: num_my_element = 2631, displacements = 28952
+rank 2: num_my_element = 2632, displacements = 5264
+rank 5: num_my_element = 2632, displacements = 13160
+rank 7: num_my_element = 2632, displacements = 18424
+rank 15: num_my_element = 2631, displacements = 39476
+rank 17: num_my_element = 2631, displacements = 44738
+rank 12: num_my_element = 2631, displacements = 31583
+rank 4: num_my_element = 2632, displacements = 10528
+rank 6: num_my_element = 2632, displacements = 15792
+rank 10: num_my_element = 2632, displacements = 26320
+rank 1: num_my_element = 2632, displacements = 2632
+rank 3: num_my_element = 2632, displacements = 7896
+actual number of elements:50000
+rank 0: num_my_element = 2632, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.348734 seconds
+Input Size: 50000
+Process Number: 19
+Sorted.
+rank 12: num_my_element = 2500, displacements = 30000
+rank 15: num_my_element = 2500, displacements = 37500
+rank 2: num_my_element = 2500, displacements = 5000
+rank 5: num_my_element = 2500, displacements = 12500
+rank 7: num_my_element = 2500, displacements = 17500
+rank 10: num_my_element = 2500, displacements = 25000
+rank 11: num_my_element = 2500, displacements = 27500
+rank 14: num_my_element = 2500, displacements = 35000
+rank 13: num_my_element = 2500, displacements = 32500
+rank 1: num_my_element = 2500, displacements = 2500
+rank 6: num_my_element = 2500, displacements = 15000
+rank 9: num_my_element = 2500, displacements = 22500
+rank 16: num_my_element = 2500, displacements = 40000
+rank 18: num_my_element = 2500, displacements = 45000
+rank 19: num_my_element = 2500, displacements = 47500
+rank 4: num_my_element = 2500, displacements = 10000
+rank 17: num_my_element = 2500, displacements = 42500
+rank 3: num_my_element = 2500, displacements = 7500
+rank 8: num_my_element = 2500, displacements = 20000
+actual number of elements:50000
+rank 0: num_my_element = 2500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.343297 seconds
+Input Size: 50000
+Process Number: 20
+Sorted.
+rank 1: num_my_element = 40000, displacements = 40000
+actual number of elements:80000
+rank 0: num_my_element = 40000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 4.22521 seconds
+Input Size: 80000
+Process Number: 2
+Sorted.
+rank 2: num_my_element = 26666, displacements = 53334
+rank 1: num_my_element = 26667, displacements = 26667
+actual number of elements:80000
+rank 0: num_my_element = 26667, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 3.2933 seconds
+Input Size: 80000
+Process Number: 3
+Sorted.
+rank 3: num_my_element = 20000, displacements = 60000
+rank 2: num_my_element = 20000, displacements = 40000
+rank 1: num_my_element = 20000, displacements = 20000
+actual number of elements:80000
+rank 0: num_my_element = 20000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 2.43735 seconds
+Input Size: 80000
+Process Number: 4
+Sorted.
+rank 4: num_my_element = 16000, displacements = 64000
+rank 3: num_my_element = 16000, displacements = 48000
+rank 1: num_my_element = 16000, displacements = 16000
+rank 2: num_my_element = 16000, displacements = 32000
+actual number of elements:80000
+rank 0: num_my_element = 16000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.98292 seconds
+Input Size: 80000
+Process Number: 5
+Sorted.
+rank 3: num_my_element = 13333, displacements = 40001
+rank 4: num_my_element = 13333, displacements = 53334
+rank 5: num_my_element = 13333, displacements = 66667
+rank 1: num_my_element = 13334, displacements = 13334
+rank 2: num_my_element = 13333, displacements = 26668
+actual number of elements:80000
+rank 0: num_my_element = 13334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.66005 seconds
+Input Size: 80000
+Process Number: 6
+Sorted.
+rank 4: num_my_element = 11428, displacements = 45716
+rank 6: num_my_element = 11428, displacements = 68572
+rank 1: num_my_element = 11429, displacements = 11429
+rank 3: num_my_element = 11429, displacements = 34287
+rank 5: num_my_element = 11428, displacements = 57144
+rank 2: num_my_element = 11429, displacements = 22858
+actual number of elements:80000
+rank 0: num_my_element = 11429, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.52513 seconds
+Input Size: 80000
+Process Number: 7
+Sorted.
+rank 6: num_my_element = 10000, displacements = 60000
+rank 3: num_my_element = 10000, displacements = 30000
+rank 2: num_my_element = 10000, displacements = 20000
+rank 4: num_my_element = 10000, displacements = 40000
+rank 1: num_my_element = 10000, displacements = 10000
+rank 5: num_my_element = 10000, displacements = 50000
+rank 7: num_my_element = 10000, displacements = 70000
+actual number of elements:80000
+rank 0: num_my_element = 10000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.33871 seconds
+Input Size: 80000
+Process Number: 8
+Sorted.
+rank 8: num_my_element = 8888, displacements = 71112
+rank 4: num_my_element = 8889, displacements = 35556
+rank 7: num_my_element = 8889, displacements = 62223
+rank 6: num_my_element = 8889, displacements = 53334
+rank 5: num_my_element = 8889, displacements = 44445
+rank 3: num_my_element = 8889, displacements = 26667
+rank 1: num_my_element = 8889, displacements = 8889
+rank 2: num_my_element = 8889, displacements = 17778
+actual number of elements:80000
+rank 0: num_my_element = 8889, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.17578 seconds
+Input Size: 80000
+Process Number: 9
+Sorted.
+rank 1: num_my_element = 8000, displacements = 8000
+rank 8: num_my_element = 8000, displacements = 64000
+rank 9: num_my_element = 8000, displacements = 72000
+rank 6: num_my_element = 8000, displacements = 48000
+rank 3: num_my_element = 8000, displacements = 24000
+rank 2: num_my_element = 8000, displacements = 16000
+rank 4: num_my_element = 8000, displacements = 32000
+rank 5: num_my_element = 8000, displacements = 40000
+rank 7: num_my_element = 8000, displacements = 56000
+actual number of elements:80000
+rank 0: num_my_element = 8000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.05632 seconds
+Input Size: 80000
+Process Number: 10
+Sorted.
+rank 4: num_my_element = 7273, displacements = 29092
+rank 6: num_my_element = 7273, displacements = 43638
+rank 5: num_my_element = 7273, displacements = 36365
+rank 10: num_my_element = 7272, displacements = 72728
+rank 8: num_my_element = 7272, displacements = 58184
+rank 9: num_my_element = 7272, displacements = 65456
+rank 2: num_my_element = 7273, displacements = 14546
+rank 1: num_my_element = 7273, displacements = 7273
+rank 7: num_my_element = 7273, displacements = 50911
+rank 3: num_my_element = 7273, displacements = 21819
+actual number of elements:80000
+rank 0: num_my_element = 7273, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.33652 seconds
+Input Size: 80000
+Process Number: 11
+Sorted.
+rank 7: num_my_element = 6667, displacements = 46669
+rank 9: num_my_element = 6666, displacements = 60002
+rank 6: num_my_element = 6667, displacements = 40002
+rank 1: num_my_element = 6667, displacements = 6667
+rank 2: num_my_element = 6667, displacements = 13334
+rank 4: num_my_element = 6667, displacements = 26668
+rank 5: num_my_element = 6667, displacements = 33335
+rank 11: num_my_element = 6666, displacements = 73334
+rank 8: num_my_element = 6666, displacements = 53336
+rank 3: num_my_element = 6667, displacements = 20001
+rank 10: num_my_element = 6666, displacements = 66668
+actual number of elements:80000
+rank 0: num_my_element = 6667, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.3869 seconds
+Input Size: 80000
+Process Number: 12
+Sorted.
+rank 2: num_my_element = 6154, displacements = 12308
+rank 12: num_my_element = 6153, displacements = 73847
+rank 6: num_my_element = 6154, displacements = 36924
+rank 9: num_my_element = 6154, displacements = 55386
+rank 10: num_my_element = 6154, displacements = 61540
+rank 11: num_my_element = 6153, displacements = 67694
+rank 5: num_my_element = 6154, displacements = 30770
+rank 1: num_my_element = 6154, displacements = 6154
+rank 3: num_my_element = 6154, displacements = 18462
+rank 7: num_my_element = 6154, displacements = 43078
+rank 4: num_my_element = 6154, displacements = 24616
+rank 8: num_my_element = 6154, displacements = 49232
+actual number of elements:80000
+rank 0: num_my_element = 6154, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.11531 seconds
+Input Size: 80000
+Process Number: 13
+Sorted.
+rank 5: num_my_element = 5714, displacements = 28574
+rank 13: num_my_element = 5714, displacements = 74286
+rank 6: num_my_element = 5714, displacements = 34288
+rank 9: num_my_element = 5714, displacements = 51430
+rank 11: num_my_element = 5714, displacements = 62858
+rank 8: num_my_element = 5714, displacements = 45716
+rank 10: num_my_element = 5714, displacements = 57144
+rank 4: num_my_element = 5714, displacements = 22860
+rank 12: num_my_element = 5714, displacements = 68572
+rank 3: num_my_element = 5715, displacements = 17145
+rank 7: num_my_element = 5714, displacements = 40002
+rank 1: num_my_element = 5715, displacements = 5715
+rank 2: num_my_element = 5715, displacements = 11430
+actual number of elements:80000
+rank 0: num_my_element = 5715, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.17923 seconds
+Input Size: 80000
+Process Number: 14
+Sorted.
+rank 4: num_my_element = 5334, displacements = 21336
+rank 14: num_my_element = 5333, displacements = 74667
+rank 7: num_my_element = 5333, displacements = 37336
+rank 12: num_my_element = 5333, displacements = 64001
+rank 10: num_my_element = 5333, displacements = 53335
+rank 11: num_my_element = 5333, displacements = 58668
+rank 5: num_my_element = 5333, displacements = 26670
+rank 13: num_my_element = 5333, displacements = 69334
+rank 2: num_my_element = 5334, displacements = 10668
+rank 9: num_my_element = 5333, displacements = 48002
+rank 3: num_my_element = 5334, displacements = 16002
+rank 6: num_my_element = 5333, displacements = 32003
+rank 1: num_my_element = 5334, displacements = 5334
+rank 8: num_my_element = 5333, displacements = 42669
+actual number of elements:80000
+rank 0: num_my_element = 5334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.14463 seconds
+Input Size: 80000
+Process Number: 15
+Sorted.
+rank 1: num_my_element = 5000, displacements = 5000
+rank 4: num_my_element = 5000, displacements = 20000
+rank 6: num_my_element = 5000, displacements = 30000
+rank 2: num_my_element = 5000, displacements = 10000
+rank 10: num_my_element = 5000, displacements = 50000
+rank 11: num_my_element = 5000, displacements = 55000
+rank 13: num_my_element = 5000, displacements = 65000
+rank 3: num_my_element = 5000, displacements = 15000
+rank 5: num_my_element = 5000, displacements = 25000
+rank 7: num_my_element = 5000, displacements = 35000
+rank 8: num_my_element = 5000, displacements = 40000
+rank 14: num_my_element = 5000, displacements = 70000
+rank 15: num_my_element = 5000, displacements = 75000
+rank 9: num_my_element = 5000, displacements = 45000
+rank 12: num_my_element = 5000, displacements = 60000
+actual number of elements:80000
+rank 0: num_my_element = 5000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.08774 seconds
+Input Size: 80000
+Process Number: 16
+Sorted.
+rank 8: num_my_element = 4706, displacements = 37648
+rank 15: num_my_element = 4705, displacements = 70590
+rank 16: num_my_element = 4705, displacements = 75295
+rank 9: num_my_element = 4706, displacements = 42354
+rank 10: num_my_element = 4706, displacements = 47060
+rank 12: num_my_element = 4706, displacements = 56472
+rank 13: num_my_element = 4706, displacements = 61178
+rank 1: num_my_element = 4706, displacements = 4706
+rank 2: num_my_element = 4706, displacements = 9412
+rank 3: num_my_element = 4706, displacements = 14118
+rank 4: num_my_element = 4706, displacements = 18824
+rank 5: num_my_element = 4706, displacements = 23530
+rank 6: num_my_element = 4706, displacements = 28236
+rank 7: num_my_element = 4706, displacements = 32942
+rank 11: num_my_element = 4706, displacements = 51766
+rank 14: num_my_element = 4706, displacements = 65884
+actual number of elements:80000
+rank 0: num_my_element = 4706, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.05744 seconds
+Input Size: 80000
+Process Number: 17
+Sorted.
+rank 7: num_my_element = 4445, displacements = 31115
+rank 14: num_my_element = 4444, displacements = 62224
+rank 13: num_my_element = 4444, displacements = 57780
+rank 2: num_my_element = 4445, displacements = 8890
+rank 8: num_my_element = 4444, displacements = 35560
+rank 9: num_my_element = 4444, displacements = 40004
+rank 12: num_my_element = 4444, displacements = 53336
+rank 16: num_my_element = 4444, displacements = 71112
+rank 5: num_my_element = 4445, displacements = 22225
+rank 6: num_my_element = 4445, displacements = 26670
+rank 10: num_my_element = 4444, displacements = 44448
+rank 15: num_my_element = 4444, displacements = 66668
+rank 17: num_my_element = 4444, displacements = 75556
+rank 1: num_my_element = 4445, displacements = 4445
+rank 3: num_my_element = 4445, displacements = 13335
+rank 4: num_my_element = 4445, displacements = 17780
+rank 11: num_my_element = 4444, displacements = 48892
+actual number of elements:80000
+rank 0: num_my_element = 4445, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.966958 seconds
+Input Size: 80000
+Process Number: 18
+Sorted.
+rank 5: num_my_element = 4211, displacements = 21055
+rank 14: num_my_element = 4210, displacements = 58950
+rank 4: num_my_element = 4211, displacements = 16844
+rank 3: num_my_element = 4211, displacements = 12633
+rank 10: num_my_element = 4210, displacements = 42110
+rank 12: num_my_element = 4210, displacements = 50530
+rank 18: num_my_element = 4210, displacements = 75790
+rank 11: num_my_element = 4210, displacements = 46320
+rank 13: num_my_element = 4210, displacements = 54740
+rank 15: num_my_element = 4210, displacements = 63160
+rank 16: num_my_element = 4210, displacements = 67370
+rank 2: num_my_element = 4211, displacements = 8422
+rank 9: num_my_element = 4211, displacements = 37899
+rank 1: num_my_element = 4211, displacements = 4211
+rank 7: num_my_element = 4211, displacements = 29477
+rank 6: num_my_element = 4211, displacements = 25266
+rank 8: num_my_element = 4211, displacements = 33688
+rank 17: num_my_element = 4210, displacements = 71580
+actual number of elements:80000
+rank 0: num_my_element = 4211, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.947976 seconds
+Input Size: 80000
+Process Number: 19
+Sorted.
+rank 6: num_my_element = 4000, displacements = 24000
+rank 8: num_my_element = 4000, displacements = 32000
+rank 12: num_my_element = 4000, displacements = 48000
+rank 17: num_my_element = 4000, displacements = 68000
+rank 19: num_my_element = 4000, displacements = 76000
+rank 1: num_my_element = 4000, displacements = 4000
+rank 2: num_my_element = 4000, displacements = 8000
+rank 3: num_my_element = 4000, displacements = 12000
+rank 4: num_my_element = 4000, displacements = 16000
+rank 5: num_my_element = 4000, displacements = 20000
+rank 7: num_my_element = 4000, displacements = 28000
+rank 9: num_my_element = 4000, displacements = 36000
+rank 10: num_my_element = 4000, displacements = 40000
+rank 11: num_my_element = 4000, displacements = 44000
+rank 13: num_my_element = 4000, displacements = 52000
+rank 14: num_my_element = 4000, displacements = 56000
+rank 15: num_my_element = 4000, displacements = 60000
+rank 16: num_my_element = 4000, displacements = 64000
+rank 18: num_my_element = 4000, displacements = 72000
+actual number of elements:80000
+rank 0: num_my_element = 4000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 0.907561 seconds
+Input Size: 80000
+Process Number: 20
+Sorted.
+rank 1: num_my_element = 50000, displacements = 50000
+actual number of elements:100000
+rank 0: num_my_element = 50000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 6.74088 seconds
+Input Size: 100000
+Process Number: 2
+Sorted.
+rank 1: num_my_element = 33333, displacements = 33334
+rank 2: num_my_element = 33333, displacements = 66667
+actual number of elements:100000
+rank 0: num_my_element = 33334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 4.99754 seconds
+Input Size: 100000
+Process Number: 3
+Sorted.
+rank 1: num_my_element = 25000, displacements = 25000
+rank 3: num_my_element = 25000, displacements = 75000
+rank 2: num_my_element = 25000, displacements = 50000
+actual number of elements:100000
+rank 0: num_my_element = 25000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 4.06149 seconds
+Input Size: 100000
+Process Number: 4
+Sorted.
+rank 1: num_my_element = 20000, displacements = 20000
+rank 4: num_my_element = 20000, displacements = 80000
+rank 3: num_my_element = 20000, displacements = 60000
+rank 2: num_my_element = 20000, displacements = 40000
+actual number of elements:100000
+rank 0: num_my_element = 20000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 3.67051 seconds
+Input Size: 100000
+Process Number: 5
+Sorted.
+rank 1: num_my_element = 16667, displacements = 16667
+rank 3: num_my_element = 16667, displacements = 50001
+rank 5: num_my_element = 16666, displacements = 83334
+rank 4: num_my_element = 16666, displacements = 66668
+rank 2: num_my_element = 16667, displacements = 33334
+actual number of elements:100000
+rank 0: num_my_element = 16667, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 4.03169 seconds
+Input Size: 100000
+Process Number: 6
+Sorted.
+rank 4: num_my_element = 14286, displacements = 57144
+rank 6: num_my_element = 14285, displacements = 85715
+rank 5: num_my_element = 14285, displacements = 71430
+rank 2: num_my_element = 14286, displacements = 28572
+rank 1: num_my_element = 14286, displacements = 14286
+rank 3: num_my_element = 14286, displacements = 42858
+actual number of elements:100000
+rank 0: num_my_element = 14286, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 2.94539 seconds
+Input Size: 100000
+Process Number: 7
+Sorted.
+rank 3: num_my_element = 12500, displacements = 37500
+rank 5: num_my_element = 12500, displacements = 62500
+rank 1: num_my_element = 12500, displacements = 12500
+rank 4: num_my_element = 12500, displacements = 50000
+rank 6: num_my_element = 12500, displacements = 75000
+rank 7: num_my_element = 12500, displacements = 87500
+rank 2: num_my_element = 12500, displacements = 25000
+actual number of elements:100000
+rank 0: num_my_element = 12500, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 2.76641 seconds
+Input Size: 100000
+Process Number: 8
+Sorted.
+rank 4: num_my_element = 11111, displacements = 44445
+rank 7: num_my_element = 11111, displacements = 77778
+rank 2: num_my_element = 11111, displacements = 22223
+rank 6: num_my_element = 11111, displacements = 66667
+rank 8: num_my_element = 11111, displacements = 88889
+rank 5: num_my_element = 11111, displacements = 55556
+rank 3: num_my_element = 11111, displacements = 33334
+rank 1: num_my_element = 11111, displacements = 11112
+actual number of elements:100000
+rank 0: num_my_element = 11112, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 2.66295 seconds
+Input Size: 100000
+Process Number: 9
+Sorted.
+rank 9: num_my_element = 10000, displacements = 90000
+rank 7: num_my_element = 10000, displacements = 70000
+rank 5: num_my_element = 10000, displacements = 50000
+rank 3: num_my_element = 10000, displacements = 30000
+rank 8: num_my_element = 10000, displacements = 80000
+rank 2: num_my_element = 10000, displacements = 20000
+rank 6: num_my_element = 10000, displacements = 60000
+rank 4: num_my_element = 10000, displacements = 40000
+rank 1: num_my_element = 10000, displacements = 10000
+actual number of elements:100000
+rank 0: num_my_element = 10000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 2.84276 seconds
+Input Size: 100000
+Process Number: 10
+Sorted.
+rank 7: num_my_element = 9091, displacements = 63637
+rank 10: num_my_element = 9090, displacements = 90910
+rank 9: num_my_element = 9091, displacements = 81819
+rank 2: num_my_element = 9091, displacements = 18182
+rank 6: num_my_element = 9091, displacements = 54546
+rank 8: num_my_element = 9091, displacements = 72728
+rank 4: num_my_element = 9091, displacements = 36364
+rank 1: num_my_element = 9091, displacements = 9091
+rank 3: num_my_element = 9091, displacements = 27273
+rank 5: num_my_element = 9091, displacements = 45455
+actual number of elements:100000
+rank 0: num_my_element = 9091, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 2.58242 seconds
+Input Size: 100000
+Process Number: 11
+Sorted.
+rank 5: num_my_element = 8333, displacements = 41669
+rank 11: num_my_element = 8333, displacements = 91667
+rank 3: num_my_element = 8334, displacements = 25002
+rank 10: num_my_element = 8333, displacements = 83334
+rank 2: num_my_element = 8334, displacements = 16668
+rank 8: num_my_element = 8333, displacements = 66668
+rank 9: num_my_element = 8333, displacements = 75001
+rank 4: num_my_element = 8333, displacements = 33336
+rank 6: num_my_element = 8333, displacements = 50002
+rank 7: num_my_element = 8333, displacements = 58335
+rank 1: num_my_element = 8334, displacements = 8334
+actual number of elements:100000
+rank 0: num_my_element = 8334, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 2.20749 seconds
+Input Size: 100000
+Process Number: 12
+Sorted.
+rank 11: num_my_element = 7692, displacements = 84616
+rank 9: num_my_element = 7692, displacements = 69232
+rank 6: num_my_element = 7692, displacements = 46156
+rank 12: num_my_element = 7692, displacements = 92308
+rank 4: num_my_element = 7692, displacements = 30772
+rank 2: num_my_element = 7693, displacements = 15386
+rank 3: num_my_element = 7693, displacements = 23079
+rank 10: num_my_element = 7692, displacements = 76924
+rank 5: num_my_element = 7692, displacements = 38464
+rank 8: num_my_element = 7692, displacements = 61540
+rank 1: num_my_element = 7693, displacements = 7693
+rank 7: num_my_element = 7692, displacements = 53848
+actual number of elements:100000
+rank 0: num_my_element = 7693, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 2.22377 seconds
+Input Size: 100000
+Process Number: 13
+Sorted.
+rank 5: num_my_element = 7143, displacements = 35715
+rank 6: num_my_element = 7143, displacements = 42858
+rank 3: num_my_element = 7143, displacements = 21429
+rank 7: num_my_element = 7143, displacements = 50001
+rank 8: num_my_element = 7143, displacements = 57144
+rank 12: num_my_element = 7142, displacements = 85716
+rank 2: num_my_element = 7143, displacements = 14286
+rank 9: num_my_element = 7143, displacements = 64287
+rank 11: num_my_element = 7143, displacements = 78573
+rank 10: num_my_element = 7143, displacements = 71430
+rank 13: num_my_element = 7142, displacements = 92858
+rank 4: num_my_element = 7143, displacements = 28572
+rank 1: num_my_element = 7143, displacements = 7143
+actual number of elements:100000
+rank 0: num_my_element = 7143, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 2.04741 seconds
+Input Size: 100000
+Process Number: 14
+Sorted.
+rank 14: num_my_element = 6666, displacements = 93334
+rank 12: num_my_element = 6666, displacements = 80002
+rank 10: num_my_element = 6666, displacements = 66670
+rank 3: num_my_element = 6667, displacements = 20001
+rank 4: num_my_element = 6667, displacements = 26668
+rank 8: num_my_element = 6667, displacements = 53336
+rank 9: num_my_element = 6667, displacements = 60003
+rank 6: num_my_element = 6667, displacements = 40002
+rank 7: num_my_element = 6667, displacements = 46669
+rank 5: num_my_element = 6667, displacements = 33335
+rank 11: num_my_element = 6666, displacements = 73336
+rank 13: num_my_element = 6666, displacements = 86668
+rank 2: num_my_element = 6667, displacements = 13334
+rank 1: num_my_element = 6667, displacements = 6667
+actual number of elements:100000
+rank 0: num_my_element = 6667, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.89564 seconds
+Input Size: 100000
+Process Number: 15
+Sorted.
+rank 2: num_my_element = 6250, displacements = 12500
+rank 7: num_my_element = 6250, displacements = 43750
+rank 12: num_my_element = 6250, displacements = 75000
+rank 11: num_my_element = 6250, displacements = 68750
+rank 13: num_my_element = 6250, displacements = 81250
+rank 5: num_my_element = 6250, displacements = 31250
+rank 14: num_my_element = 6250, displacements = 87500
+rank 3: num_my_element = 6250, displacements = 18750
+rank 9: num_my_element = 6250, displacements = 56250
+rank 1: num_my_element = 6250, displacements = 6250
+rank 10: num_my_element = 6250, displacements = 62500
+rank 8: num_my_element = 6250, displacements = 50000
+rank 15: num_my_element = 6250, displacements = 93750
+rank 4: num_my_element = 6250, displacements = 25000
+rank 6: num_my_element = 6250, displacements = 37500
+actual number of elements:100000
+rank 0: num_my_element = 6250, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.76019 seconds
+Input Size: 100000
+Process Number: 16
+Sorted.
+rank 7: num_my_element = 5882, displacements = 41180
+rank 15: num_my_element = 5882, displacements = 88236
+rank 6: num_my_element = 5882, displacements = 35298
+rank 12: num_my_element = 5882, displacements = 70590
+rank 1: num_my_element = 5883, displacements = 5883
+rank 2: num_my_element = 5883, displacements = 11766
+rank 3: num_my_element = 5883, displacements = 17649
+rank 4: num_my_element = 5883, displacements = 23532
+rank 5: num_my_element = 5883, displacements = 29415
+rank 8: num_my_element = 5882, displacements = 47062
+rank 9: num_my_element = 5882, displacements = 52944
+rank 10: num_my_element = 5882, displacements = 58826
+rank 11: num_my_element = 5882, displacements = 64708
+rank 13: num_my_element = 5882, displacements = 76472
+rank 14: num_my_element = 5882, displacements = 82354
+rank 16: num_my_element = 5882, displacements = 94118
+actual number of elements:100000
+rank 0: num_my_element = 5883, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.68887 seconds
+Input Size: 100000
+Process Number: 17
+Sorted.
+rank 6: num_my_element = 5556, displacements = 33336
+rank 3: num_my_element = 5556, displacements = 16668
+rank 11: num_my_element = 5555, displacements = 61115
+rank 15: num_my_element = 5555, displacements = 83335
+rank 7: num_my_element = 5556, displacements = 38892
+rank 16: num_my_element = 5555, displacements = 88890
+rank 4: num_my_element = 5556, displacements = 22224
+rank 14: num_my_element = 5555, displacements = 77780
+rank 9: num_my_element = 5556, displacements = 50004
+rank 10: num_my_element = 5555, displacements = 55560
+rank 8: num_my_element = 5556, displacements = 44448
+rank 12: num_my_element = 5555, displacements = 66670
+rank 2: num_my_element = 5556, displacements = 11112
+rank 5: num_my_element = 5556, displacements = 27780
+rank 13: num_my_element = 5555, displacements = 72225
+rank 1: num_my_element = 5556, displacements = 5556
+rank 17: num_my_element = 5555, displacements = 94445
+actual number of elements:100000
+rank 0: num_my_element = 5556, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.6077 seconds
+Input Size: 100000
+Process Number: 18
+Sorted.
+rank 6: num_my_element = 5263, displacements = 31581
+rank 10: num_my_element = 5263, displacements = 52633
+rank 13: num_my_element = 5263, displacements = 68422
+rank 14: num_my_element = 5263, displacements = 73685
+rank 4: num_my_element = 5263, displacements = 21055
+rank 7: num_my_element = 5263, displacements = 36844
+rank 15: num_my_element = 5263, displacements = 78948
+rank 16: num_my_element = 5263, displacements = 84211
+rank 17: num_my_element = 5263, displacements = 89474
+rank 1: num_my_element = 5264, displacements = 5264
+rank 2: num_my_element = 5264, displacements = 10528
+rank 3: num_my_element = 5263, displacements = 15792
+rank 5: num_my_element = 5263, displacements = 26318
+rank 8: num_my_element = 5263, displacements = 42107
+rank 9: num_my_element = 5263, displacements = 47370
+rank 12: num_my_element = 5263, displacements = 63159
+rank 18: num_my_element = 5263, displacements = 94737
+rank 11: num_my_element = 5263, displacements = 57896
+actual number of elements:100000
+rank 0: num_my_element = 5264, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.51399 seconds
+Input Size: 100000
+Process Number: 19
+Sorted.
+rank 6: num_my_element = 5000, displacements = 30000
+rank 4: num_my_element = 5000, displacements = 20000
+rank 5: num_my_element = 5000, displacements = 25000
+rank 8: num_my_element = 5000, displacements = 40000
+rank 3: num_my_element = 5000, displacements = 15000
+rank 10: num_my_element = 5000, displacements = 50000
+rank 11: num_my_element = 5000, displacements = 55000
+rank 14: num_my_element = 5000, displacements = 70000
+rank 16: num_my_element = 5000, displacements = 80000
+rank 18: num_my_element = 5000, displacements = 90000
+rank 7: num_my_element = 5000, displacements = 35000
+rank 9: num_my_element = 5000, displacements = 45000
+rank 12: num_my_element = 5000, displacements = 60000
+rank 13: num_my_element = 5000, displacements = 65000
+rank 15: num_my_element = 5000, displacements = 75000
+rank 17: num_my_element = 5000, displacements = 85000
+rank 19: num_my_element = 5000, displacements = 95000
+rank 1: num_my_element = 5000, displacements = 5000
+rank 2: num_my_element = 5000, displacements = 10000
+actual number of elements:100000
+rank 0: num_my_element = 5000, displacements = 0
+Student ID: 119010221
+Name: Haoyan Luo
+Assignment 1
+Run Time: 1.56867 seconds
+Input Size: 100000
+Process Number: 20
+Sorted.
